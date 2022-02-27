@@ -1,0 +1,318 @@
+{
+  "french": {
+    "CREATE_INSTANT_INVITE": {
+      "desc": "permet au membre de créer une invitation pour ce serveur",
+      "name": "créer une invitation"
+    },
+    "KICK_MEMBERS": {
+      "desc": "permet au membre d'expulser les autres membres du serveur",
+      "name": "expulser des membres"
+    },
+    "BAN_MEMBERS": {
+      "desc": "permet de bannir définitivement des membres du serveur",
+      "name": "bannir des membres"
+    },
+    "ADMINISTRATOR": {
+      "desc": "donne toute les permissions au membre, et outrepasse les permissions des salons",
+      "name": "administrateur"
+    },
+    "MANAGE_CHANNELS": {
+      "desc": "permet au membre de créer, modifier ou supprimer des salons",
+      "name": "gérer les salons"
+    },
+    "MANAGE_GUILD": {
+      "desc": "permet au membre de modifier le nom du serveur, et d'y ajouter des bots",
+      "name": "gérer le serveur"
+    },
+    "ADD_REACTIONS": {
+      "desc": "permet au membre d'ajouter une réaction à un message",
+      "name": "ajouter des réactions"
+    },
+    "VIEW_AUDIT_LOG": {
+      "desc": "permet au membre de voir les logs du serveur",
+      "name": "voir les logs du serveur"
+    },
+    "PRIORITY_SPEAKER": {
+      "desc": "baisse automatiquement le son des autres membres n'ayant pas cette permission quand le membre parle via le bonton",
+      "name": "voix prioritaire"
+    },
+    "STREAM": {
+      "desc": "permet au membre d'activer leur caméra et de partager leur écran",
+      "name": "vidéo"
+    },
+    "VIEW_CHANNEL": {
+      "desc": "permet au membre de voir les salons, à l'exception des salons privés",
+      "name": "voir les salons"
+    },
+    "SEND_MESSAGES": {
+      "desc": "permet au membre d'envoyer des messages dans les salons auquel il a accès",
+      "name": "envoyer des messages"
+    },
+    "SEND_TTS_MESSAGES": {
+      "desc": "permet au membre d'envoyer des messages dictés (/tts)",
+      "name": "envoyer des messages dictés"
+    },
+    "MANAGE_MESSAGES": {
+      "desc": "permet au membre de supprimer ou d'épingler les messages des autres membres",
+      "name": "gérer les messages"
+    },
+    "EMBED_LINKS": {
+      "desc": "permet au membre d'envoyer du contenue intégrés (ex: embeds, gifs...)",
+      "name": "intégrer des liens"
+    },
+    "ATTACH_FILES": {
+      "desc": "permet au membre d'envoyer des fichiers",
+      "name": "joindre des fichiers"
+    },
+    "READ_MESSAGE_HISTORY": {
+      "desc": "permet au membre de voir les messages précédemment envoyés dans les salons",
+      "name": "voir les anciens messages"
+    },
+    "MENTION_EVERYONE": {
+      "desc": "permet au membre de mentionner `@everyone` ainsi que `@here` et les autres rôles",
+      "name": "mentionner `@everyone`, `@here` et tout les rôles"
+    },
+    "USE_EXTERNAL_EMOJIS": {
+      "desc": "permet d'envoyer des emojis externes, à conditions d'être membre discord nitro",
+      "name": "utiliser des emojis externes"
+    },
+    "VIEW_GUILD_INSIGHTS": {
+      "desc": "permet au membre de voir les analyses de serveur",
+      "name": "voir les analyses de serveur"
+    },
+    "CONNECT": {
+      "desc": "permet au membre de se connecter en vocal et d'entendre les autres membres",
+      "name": "se connecter en vocal"
+    },
+    "SPEAK": {
+      "desc": "permet au membre de parler en vocal",
+      "name": "parler en vocal"
+    },
+    "MUTE_MEMBERS": {
+      "desc": "permet au membre de rendre muet les membres en vocal",
+      "name": "rendre les membres muets"
+    },
+    "DEAFEN_MEMBERS": {
+      "desc": "permet au membre de rendre sourd les membres en vocal",
+      "name": "rendre les membres sourds"
+    },
+    "MOVE_MEMBERS": {
+      "desc": "permet au membre de bouger un membre d'un vocal a un autre",
+      "name": "déplacer les membres en vocal"
+    },
+    "USE_VAD": {
+      "desc": "permet au membre de parler sans utiliser le bouton \"appuyer pour parler\"",
+      "name": "utiliser la détection de voix"
+    },
+    "CHANGE_NICKNAME": {
+      "desc": "permet au membre de changer **son** propre pseudo de serveur",
+      "name": "changer le pseudo"
+    },
+    "MANAGE_NICKNAMES": {
+      "desc": "permet au membre de changer les pseudos des autres membres du serveur",
+      "name": "gérer les pseudos"
+    },
+    "MANAGE_ROLES": {
+      "desc": "permet au membre de supprimer, modifier ou créer des rôles, qui inférieur a leur role le plus élevé",
+      "name": "gérer les rôles"
+    },
+    "MANAGE_WEBHOOKS": {
+      "desc": "permet au membre de supprimer, modifier ou créer des \"webhooks\"",
+      "name": "gérer les \"webhooks\""
+    },
+    "MANAGE_EMOJIS_AND_STICKERS": {
+      "desc": "permet au membre de supprimer, modifier ou créer des emojis et autocollants",
+      "name": "gérer les emojis et autocollants"
+    },
+    "USE_APPLICATION_COMMANDS": {
+      "desc": "permet au membre d'utiliser les commandes de bot via les /slashs ainsi que sur le menu contextuel",
+      "name": "utiliser les slashs commandes"
+    },
+    "REQUEST_TO_SPEAK": {
+      "desc": "permet au membre de demander la parole, dans un stage vocal",
+      "name": "demander la parole"
+    },
+    "MANAGE_THREADS": {
+      "desc": "permet au membre de supprimer, (dés)archiver, renommer, activer le mode lent, et voir les threads privée",
+      "name": "gérer les threads"
+    },
+    "USE_EXTERNAL_STICKERS": {
+      "desc": "permet au membre d'envoyer des stickers externes, à conditions d'être membre discord nitro",
+      "name": "envoyer des stickers externes"
+    },
+    "CREATE_PUBLIC_THREADS": {
+      "desc": "permet au membre de créer des threads publics",
+      "name": "créer des threads publics"
+    },
+    "CREATE_PRIVATE_THREADS": {
+      "desc": "permet au membre de créer des threads privés",
+      "name": "créer des threads privés"
+    },
+    "SEND_MESSAGES_IN_THREADS": {
+      "desc": "permet au membre d'envoyer des messages dans les threads",
+      "name": "envoyer des messages dans les threads"
+    },
+    "START_EMBEDDED_ACTIVITIES": {
+      "desc": "permet au membre de commencer une activitée dans un salon vocal",
+      "name": "commencer une activitée"
+    }
+  },
+  "english": {
+    "CREATE_INSTANT_INVITE": {
+      "desc": "allow member to create invitations",
+      "name": "create invitations"
+    },
+    "KICK_MEMBERS": {
+      "desc": "allow member to kick other members",
+      "name": "kick members"
+    },
+    "BAN_MEMBERS": {
+      "desc": "allow member to ban other members",
+      "name": "ban members"
+    },
+    "ADMINISTRATOR": {
+      "desc": "gives all permissions and bypass channels permissions",
+      "name": "administrator"
+    },
+    "MANAGE_CHANNELS": {
+      "desc": "allow member to create, edit, and delete channels",
+      "name": "manage channels"
+    },
+    "MANAGE_GUILD": {
+      "desc": "allow member to edit guild, and add bots",
+      "name": "manage guild"
+    },
+    "ADD_REACTIONS": {
+      "desc": "allow member to react with an emoji to a message",
+      "name": "add reactions"
+    },
+    "VIEW_AUDIT_LOG": {
+      "desc": "allow member to see guild logs",
+      "name": "see guild logs"
+    },
+    "PRIORITY_SPEAKER": {
+      "desc": "lower automatically the volume of other members without this permissions when member use the button",
+      "name": "priority speaker"
+    },
+    "STREAM": {
+      "desc": "allow member to activate his camera and share his screen",
+      "name": "video"
+    },
+    "VIEW_CHANNEL": {
+      "desc": "allow member to see channels, except privates channels",
+      "name": "view channels"
+    },
+    "SEND_MESSAGES": {
+      "desc": "allow member to send messages in channels he can see",
+      "name": "send messages"
+    },
+    "SEND_TTS_MESSAGES": {
+      "desc": "allow member to send \"text to speech\" messages (/tts)",
+      "name": "send tts messages"
+    },
+    "MANAGE_MESSAGES": {
+      "desc": "allow member to delete or pin other's messages",
+      "name": "manage messages"
+    },
+    "EMBED_LINKS": {
+      "desc": "allow member to send embeds content with links (e.g.: embeds, gifs...)",
+      "name": "embed links"
+    },
+    "ATTACH_FILES": {
+      "desc": "allow member to send files",
+      "name": "attach files"
+    },
+    "READ_MESSAGE_HISTORY": {
+      "desc": "allow member to see previous messages in channels",
+      "name": "read message history"
+    },
+    "MENTION_EVERYONE": {
+      "desc": "allow member to mention `@everyone`, `@here`, and other roles",
+      "name": "mention `@everyone`, `@here` and all other roles"
+    },
+    "USE_EXTERNAL_EMOJIS": {
+      "desc": "allow member to use extern emoji, if he is a nitro member",
+      "name": "send extern emojis"
+    },
+    "VIEW_GUILD_INSIGHTS": {
+      "desc": "allow member to see guild insights",
+      "name": "see guild insights"
+    },
+    "CONNECT": {
+      "desc": "allow member join voice channels ans hear other",
+      "name": "connect"
+    },
+    "SPEAK": {
+      "desc": "allow member to speak in voice channels",
+      "name": "speak"
+    },
+    "MUTE_MEMBERS": {
+      "desc": "allow member to mute other members in voice channels",
+      "name": "mute members in voice channel"
+    },
+    "DEAFEN_MEMBERS": {
+      "desc": "allow member to deafen other members in voice channels",
+      "name": "deafen members in voice channel"
+    },
+    "MOVE_MEMBERS": {
+      "desc": "allow member to move members in other voice channels",
+      "name": "move members"
+    },
+    "USE_VAD": {
+      "desc": "allow member to speack without the \"push to talk\" button",
+      "name": "uuse voice activity"
+    },
+    "CHANGE_NICKNAME": {
+      "desc": "allow member to change his nickname",
+      "name": "change nickname"
+    },
+    "MANAGE_NICKNAMES": {
+      "desc": "allow member to change other members nicknames",
+      "name": "manage nicknames"
+    },
+    "MANAGE_ROLES": {
+      "desc": "allow member to delete, edit or create roles that are lower than his highest role",
+      "name": "manage roles"
+    },
+    "MANAGE_WEBHOOKS": {
+      "desc": "allow member to delete, edit, and create webhooks",
+      "name": "manage webhooks"
+    },
+    "MANAGE_EMOJIS_AND_STICKERS": {
+      "desc": "allow member to delete, edit and create stickers and emojis",
+      "name": "manage stickers and emojis"
+    },
+    "USE_APPLICATION_COMMANDS": {
+      "desc": "allow member to use /slashs commands and context menu commands",
+      "name": "use applications commands"
+    },
+    "REQUEST_TO_SPEAK": {
+      "desc": "allow member to requesting to speak in stages",
+      "name": "requesting to speak"
+    },
+    "MANAGE_THREADS": {
+      "desc": "allow member to delete, (un)archive, rename, turn on slow mode, and see all threads",
+      "name": "manage threads"
+    },
+    "USE_EXTERNAL_STICKERS": {
+      "desc": "allow member to use extern stickers, if he is a nitro member",
+      "name": "use extern stickers"
+    },
+    "CREATE_PUBLIC_THREADS": {
+      "desc": "allow member to create publics threads",
+      "name": "create publics threads"
+    },
+    "CREATE_PRIVATE_THREADS": {
+      "desc": "allow member to create privates threads",
+      "name": "create privates threads"
+    },
+    "SEND_MESSAGES_IN_THREADS": {
+      "desc": "allow member to send messages in threads",
+      "name": "send messages in threads"
+    },
+    "START_EMBEDDED_ACTIVITIES": {
+      "desc": "allow member to start activities in voices channels",
+      "name": "start activities"
+    }
+  }
+}

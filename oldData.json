@@ -1,0 +1,3539 @@
+[
+  {
+    "data": {
+      "guilds": [
+        "880769170898300969",
+        "781774145943896075",
+        "866083756213665792",
+        "834175891176947743",
+        "868519578005799033",
+        "848657031694778378"
+      ],
+      "limit": 10
+    },
+    "guilds": [
+      "880769170898300969",
+      "781774145943896075",
+      "866083756213665792",
+      "834175891176947743",
+      "868519578005799033",
+      "848657031694778378"
+    ],
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24688-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "system/beta",
+      "@last-modified": "2021-11-09T22:59:19.3573079Z"
+    },
+    "id": "system/beta"
+  },
+  {
+    "data": {
+      "prefix": "&",
+      "lang": "fr",
+      "id": "848657031694778378"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24689-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/848657031694778378",
+      "@last-modified": "2021-11-09T22:59:19.3586003Z"
+    },
+    "id": "guild/848657031694778378"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "896719814989578240"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24690-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/896719814989578240",
+      "@last-modified": "2021-11-09T22:59:19.3587864Z"
+    },
+    "id": "guild/896719814989578240"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "899590890153201724"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24691-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/899590890153201724",
+      "@last-modified": "2021-11-09T22:59:19.3589087Z"
+    },
+    "id": "guild/899590890153201724"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "781774145943896075"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24692-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/781774145943896075",
+      "@last-modified": "2021-11-09T22:59:19.3590307Z"
+    },
+    "id": "guild/781774145943896075"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "694994318468841542"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24693-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/694994318468841542",
+      "@last-modified": "2021-11-09T22:59:19.3591475Z"
+    },
+    "id": "guild/694994318468841542"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "857367515256979497"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24694-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/857367515256979497",
+      "@last-modified": "2021-11-09T22:59:19.3592528Z"
+    },
+    "id": "guild/857367515256979497"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24695-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/820249775009955871",
+      "@last-modified": "2021-11-09T22:59:19.3593541Z"
+    },
+    "id": "guild/820249775009955871"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24696-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/870372725376548964",
+      "@last-modified": "2021-11-09T22:59:19.3594692Z"
+    },
+    "id": "guild/870372725376548964"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "899038919935528991"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24697-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/899038919935528991",
+      "@last-modified": "2021-11-09T22:59:19.3595629Z"
+    },
+    "id": "guild/899038919935528991"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "810318689584545863"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24698-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/810318689584545863",
+      "@last-modified": "2021-11-09T22:59:19.3596464Z"
+    },
+    "id": "guild/810318689584545863"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "789527028067991622"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24699-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/789527028067991622",
+      "@last-modified": "2021-11-09T22:59:19.3597393Z"
+    },
+    "id": "guild/789527028067991622"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "833784476982968350"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24700-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/833784476982968350",
+      "@last-modified": "2021-11-09T22:59:19.3598265Z"
+    },
+    "id": "guild/833784476982968350"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "891932048959344650"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24701-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/891932048959344650",
+      "@last-modified": "2021-11-09T22:59:19.3599118Z"
+    },
+    "id": "guild/891932048959344650"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24702-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/840186518290432000",
+      "@last-modified": "2021-11-09T22:59:19.3600010Z"
+    },
+    "id": "guild/840186518290432000"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24703-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/834389245128212501",
+      "@last-modified": "2021-11-09T22:59:19.3600860Z"
+    },
+    "id": "guild/834389245128212501"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24704-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/856992611565961296",
+      "@last-modified": "2021-11-09T22:59:19.3601707Z"
+    },
+    "id": "guild/856992611565961296"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24705-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/866717755051212850",
+      "@last-modified": "2021-11-09T22:59:19.3602945Z"
+    },
+    "id": "guild/866717755051212850"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24706-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/862714646384214117",
+      "@last-modified": "2021-11-09T22:59:19.3603838Z"
+    },
+    "id": "guild/862714646384214117"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24707-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/872130341085794355",
+      "@last-modified": "2021-11-09T22:59:19.3604677Z"
+    },
+    "id": "guild/872130341085794355"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24708-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/867149520664264714",
+      "@last-modified": "2021-11-09T22:59:19.3605502Z"
+    },
+    "id": "guild/867149520664264714"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "807242667209130035"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24709-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/807242667209130035",
+      "@last-modified": "2021-11-09T22:59:19.3606375Z"
+    },
+    "id": "guild/807242667209130035"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "835073277864181790"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24710-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/835073277864181790",
+      "@last-modified": "2021-11-09T22:59:19.3607254Z"
+    },
+    "id": "guild/835073277864181790"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "810922923518984243"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24711-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/810922923518984243",
+      "@last-modified": "2021-11-09T22:59:19.3608113Z"
+    },
+    "id": "guild/810922923518984243"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "796376442866368513"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24712-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/796376442866368513",
+      "@last-modified": "2021-11-09T22:59:19.3609003Z"
+    },
+    "id": "guild/796376442866368513"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "511531033284575252"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24713-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/511531033284575252",
+      "@last-modified": "2021-11-09T22:59:19.3609847Z"
+    },
+    "id": "guild/511531033284575252"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "871520058441093140"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24714-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/871520058441093140",
+      "@last-modified": "2021-11-09T22:59:19.3611563Z"
+    },
+    "id": "guild/871520058441093140"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "730537761303560223"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24715-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/730537761303560223",
+      "@last-modified": "2021-11-09T22:59:19.3612427Z"
+    },
+    "id": "guild/730537761303560223"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "868519578005799033"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24716-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/868519578005799033",
+      "@last-modified": "2021-11-09T22:59:19.3613326Z"
+    },
+    "id": "guild/868519578005799033"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "825052771756671026"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24717-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/825052771756671026",
+      "@last-modified": "2021-11-09T22:59:19.3614517Z"
+    },
+    "id": "guild/825052771756671026"
+  },
+  {
+    "data": {
+      "prefix": "&",
+      "lang": "fr",
+      "id": "880769170898300969"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24718-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/880769170898300969",
+      "@last-modified": "2021-11-09T22:59:19.3615357Z"
+    },
+    "id": "guild/880769170898300969"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "858359573639069786"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24719-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/858359573639069786",
+      "@last-modified": "2021-11-09T22:59:19.3616265Z"
+    },
+    "id": "guild/858359573639069786"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "816340117853569095"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24720-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/816340117853569095",
+      "@last-modified": "2021-11-09T22:59:19.3617091Z"
+    },
+    "id": "guild/816340117853569095"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "771782143939838033"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24721-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/771782143939838033",
+      "@last-modified": "2021-11-09T22:59:19.3617943Z"
+    },
+    "id": "guild/771782143939838033"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "858142559196676117"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24722-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/858142559196676117",
+      "@last-modified": "2021-11-09T22:59:19.3618821Z"
+    },
+    "id": "guild/858142559196676117"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "513041907681853451"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24723-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/513041907681853451",
+      "@last-modified": "2021-11-09T22:59:19.3619642Z"
+    },
+    "id": "guild/513041907681853451"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "834175891176947743"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24724-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/834175891176947743",
+      "@last-modified": "2021-11-09T22:59:19.3620483Z"
+    },
+    "id": "guild/834175891176947743"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "798219192653578240"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24725-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/798219192653578240",
+      "@last-modified": "2021-11-09T22:59:19.3621349Z"
+    },
+    "id": "guild/798219192653578240"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "875226756997595146"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24726-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/875226756997595146",
+      "@last-modified": "2021-11-09T22:59:19.3622269Z"
+    },
+    "id": "guild/875226756997595146"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "882699860954996746"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24727-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/882699860954996746",
+      "@last-modified": "2021-11-09T22:59:19.3623098Z"
+    },
+    "id": "guild/882699860954996746"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "892743705834954772"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24728-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/892743705834954772",
+      "@last-modified": "2021-11-09T22:59:19.3623937Z"
+    },
+    "id": "guild/892743705834954772"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "501017909389295616"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24729-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/501017909389295616",
+      "@last-modified": "2021-11-09T22:59:19.3624821Z"
+    },
+    "id": "guild/501017909389295616"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "844320838810599424"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24730-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/844320838810599424",
+      "@last-modified": "2021-11-09T22:59:19.3625695Z"
+    },
+    "id": "guild/844320838810599424"
+  },
+  {
+    "data": {
+      "prefix": "-",
+      "lang": "fr",
+      "id": "894374578565054465"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24731-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/894374578565054465",
+      "@last-modified": "2021-11-09T22:59:19.3626523Z"
+    },
+    "id": "guild/894374578565054465"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895108945843208262"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24732-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895108945843208262",
+      "@last-modified": "2021-11-09T22:59:19.3627418Z"
+    },
+    "id": "guild/895108945843208262"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "840265932894634015"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24733-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/840265932894634015",
+      "@last-modified": "2021-11-09T22:59:19.3628378Z"
+    },
+    "id": "guild/840265932894634015"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "876635352020967525"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24734-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/876635352020967525",
+      "@last-modified": "2021-11-09T22:59:19.3629383Z"
+    },
+    "id": "guild/876635352020967525"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "888280691148734464"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24735-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/888280691148734464",
+      "@last-modified": "2021-11-09T22:59:19.3630365Z"
+    },
+    "id": "guild/888280691148734464"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895171748343975966"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24736-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895171748343975966",
+      "@last-modified": "2021-11-09T22:59:19.3631562Z"
+    },
+    "id": "guild/895171748343975966"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895228418503884820"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24737-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895228418503884820",
+      "@last-modified": "2021-11-09T22:59:19.3632549Z"
+    },
+    "id": "guild/895228418503884820"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "880638658556878898"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24738-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/880638658556878898",
+      "@last-modified": "2021-11-09T22:59:19.3633472Z"
+    },
+    "id": "guild/880638658556878898"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "892809809957634088"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24739-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/892809809957634088",
+      "@last-modified": "2021-11-09T22:59:19.3634444Z"
+    },
+    "id": "guild/892809809957634088"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "888282907976798208"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24740-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/888282907976798208",
+      "@last-modified": "2021-11-09T22:59:19.3635410Z"
+    },
+    "id": "guild/888282907976798208"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "874397524255965254"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24741-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/874397524255965254",
+      "@last-modified": "2021-11-09T22:59:19.3636307Z"
+    },
+    "id": "guild/874397524255965254"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "892234988878180393"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24742-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/892234988878180393",
+      "@last-modified": "2021-11-09T22:59:19.3637129Z"
+    },
+    "id": "guild/892234988878180393"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "333949691962195969"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24743-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/333949691962195969",
+      "@last-modified": "2021-11-09T22:59:19.3638014Z"
+    },
+    "id": "guild/333949691962195969"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "888093202953928754"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24744-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/888093202953928754",
+      "@last-modified": "2021-11-09T22:59:19.3638836Z"
+    },
+    "id": "guild/888093202953928754"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "894665899431321631"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24745-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/894665899431321631",
+      "@last-modified": "2021-11-09T22:59:19.3639666Z"
+    },
+    "id": "guild/894665899431321631"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "894430781240381460"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24746-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/894430781240381460",
+      "@last-modified": "2021-11-09T22:59:19.3641514Z"
+    },
+    "id": "guild/894430781240381460"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895878422016950332"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24747-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895878422016950332",
+      "@last-modified": "2021-11-09T22:59:19.3642426Z"
+    },
+    "id": "guild/895878422016950332"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "848571256705384448"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24748-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/848571256705384448",
+      "@last-modified": "2021-11-09T22:59:19.3643259Z"
+    },
+    "id": "guild/848571256705384448"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "892691075481870377"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24749-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/892691075481870377",
+      "@last-modified": "2021-11-09T22:59:19.3644155Z"
+    },
+    "id": "guild/892691075481870377"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "814714050813362216"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24750-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/814714050813362216",
+      "@last-modified": "2021-11-09T22:59:19.3644991Z"
+    },
+    "id": "guild/814714050813362216"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895454345955541012"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24751-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895454345955541012",
+      "@last-modified": "2021-11-09T22:59:19.3645833Z"
+    },
+    "id": "guild/895454345955541012"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "895692671291629690"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24752-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/895692671291629690",
+      "@last-modified": "2021-11-09T22:59:19.3646682Z"
+    },
+    "id": "guild/895692671291629690"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "887135342321356822"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24753-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/887135342321356822",
+      "@last-modified": "2021-11-09T22:59:19.3647587Z"
+    },
+    "id": "guild/887135342321356822"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "889128975018909696"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24754-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/889128975018909696",
+      "@last-modified": "2021-11-09T22:59:19.3648428Z"
+    },
+    "id": "guild/889128975018909696"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "896448384922189854"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24755-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/896448384922189854",
+      "@last-modified": "2021-11-09T22:59:19.3649264Z"
+    },
+    "id": "guild/896448384922189854"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "881164116327276554"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24756-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/881164116327276554",
+      "@last-modified": "2021-11-09T22:59:19.3650158Z"
+    },
+    "id": "guild/881164116327276554"
+  },
+  {
+    "data": {
+      "prefix": "&",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24757-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/866083756213665792",
+      "@last-modified": "2021-11-09T22:59:19.3651201Z"
+    },
+    "id": "guild/866083756213665792"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "732618858485121124"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24758-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/732618858485121124",
+      "@last-modified": "2021-11-09T22:59:19.3652256Z"
+    },
+    "id": "guild/732618858485121124"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "814959519939428352"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24759-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/814959519939428352",
+      "@last-modified": "2021-11-09T22:59:19.3653126Z"
+    },
+    "id": "guild/814959519939428352"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "545261966386790407"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24760-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/545261966386790407",
+      "@last-modified": "2021-11-09T22:59:19.3653945Z"
+    },
+    "id": "guild/545261966386790407"
+  },
+  {
+    "data": {
+      "prefix": "!",
+      "lang": "fr",
+      "id": "879682859319853058"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24761-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/879682859319853058",
+      "@last-modified": "2021-11-09T22:59:19.3654791Z"
+    },
+    "id": "guild/879682859319853058"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "831842750538186772"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24762-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/831842750538186772",
+      "@last-modified": "2021-11-09T22:59:19.3655700Z"
+    },
+    "id": "guild/831842750538186772"
+  },
+  {
+    "data": {
+      "prefix": "!",
+      "lang": "fr",
+      "id": "900389750706429963",
+      "_config": {
+        "enable": true
+      }
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24763-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/900389750706429963",
+      "@last-modified": "2021-11-09T22:59:19.3656544Z"
+    },
+    "id": "guild/900389750706429963"
+  },
+  {
+    "data": [
+      {
+        "id": "580734215403077673",
+        "reason": "\""
+      },
+      {
+        "id": "691185085088792606",
+        "reason": "mp des fakes liens nitro"
+      },
+      {
+        "id": "854864262119030795",
+        "reason": "everyone dans \"interserver\" faut lien discord nitro"
+      },
+      {
+        "id": "876337776541466676",
+        "reason": "Utilise des bots pour raid les serveurs"
+      },
+      {
+        "id": "872424817142419497",
+        "reason": " \"Les nuls\""
+      },
+      {
+        "id": "591304008258420741",
+        "reason": "qu'est ce que j'en ai à foutre que il soit blacklist pour insulte"
+      },
+      {
+        "id": "863530348180799539",
+        "reason": "Le respect est à revoir"
+      },
+      {
+        "id": "885228153851764806",
+        "reason": "bot de cartel"
+      },
+      {
+        "id": "878663644173451274",
+        "reason": "I hear cheh in my oreillette"
+      },
+      {
+        "id": "853299946869489704",
+        "reason": "casse couille"
+      }
+    ],
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24764-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "blacklist",
+      "@last-modified": "2021-11-09T22:59:19.3657392Z"
+    },
+    "id": "blacklist"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "903167931360358450"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24765-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/903167931360358450",
+      "@last-modified": "2021-11-09T22:59:19.3658264Z"
+    },
+    "id": "guild/903167931360358450"
+  },
+  {
+    "data": {
+      "prefix": "&",
+      "lang": "fr",
+      "id": "872130341085794355"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24766-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/855448055149887538",
+      "@last-modified": "2021-11-09T22:59:19.3659198Z"
+    },
+    "id": "guild/855448055149887538"
+  },
+  {
+    "data": {
+      "prefix": "",
+      "lang": "fr",
+      "id": "880039805436719205"
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24767-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "guild/880039805436719205",
+      "@last-modified": "2021-11-09T22:59:19.3660031Z"
+    },
+    "id": "guild/880039805436719205"
+  },
+  {
+    "data": {
+      "28-09-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 13,
+            "ping": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 12,
+              "ping": 1
+            },
+            "550041732893376542": {
+              "eval": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "29-09-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 11,
+            "ping": 6,
+            "play": 19,
+            "leave": 2,
+            "pp": 3,
+            "loop": 5,
+            "stop": 1,
+            "beta": 10,
+            "8ball": 45,
+            "bot": 1,
+            "blacklist": 1,
+            "nowplaying": 3,
+            "help": 3,
+            "skip": 3,
+            "queue": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 11,
+              "play": 8,
+              "leave": 2,
+              "pp": 3,
+              "loop": 2,
+              "stop": 1,
+              "ping": 1,
+              "beta": 3,
+              "bot": 1,
+              "blacklist": 1
+            },
+            "455329056456441868": {
+              "ping": 2
+            },
+            "509051482046464002": {
+              "ping": 3
+            },
+            "747750324206305320": {
+              "8ball": 17,
+              "beta": 1
+            },
+            "581479159461707786": {
+              "beta": 1,
+              "8ball": 2
+            },
+            "825437330307285022": {
+              "8ball": 26
+            },
+            "883014874630877225": {
+              "beta": 1
+            },
+            "498481028697030656": {
+              "beta": 1
+            },
+            "865684735547932713": {
+              "beta": 2
+            },
+            "550041732893376542": {
+              "play": 11,
+              "nowplaying": 3,
+              "help": 1,
+              "loop": 3,
+              "skip": 3,
+              "queue": 1
+            },
+            "769643439163310081": {
+              "beta": 1,
+              "help": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "30-09-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "leave": 3,
+            "profile": 3,
+            "xp": 4,
+            "eval": 50,
+            "help": 6,
+            "automod": 3,
+            "play": 26,
+            "skip": 1,
+            "pause": 1,
+            "unpause": 1,
+            "ping": 5,
+            "serv": 2,
+            "beta": 1,
+            "data": 2,
+            "reload": 1,
+            "userinfo": 5,
+            "advancement": 1,
+            "queue": 3,
+            "stop": 1,
+            "test": 2,
+            "nowplaying": 1,
+            "invite": 1,
+            "calculator": 5,
+            "loop": 5
+          },
+          "users": {
+            "550041732893376542": {
+              "leave": 1,
+              "play": 23,
+              "queue": 3,
+              "ping": 1,
+              "nowplaying": 1,
+              "eval": 7,
+              "invite": 1,
+              "loop": 5
+            },
+            "865684735547932713": {
+              "profile": 2
+            },
+            "782164174821523467": {
+              "xp": 3,
+              "profile": 1,
+              "eval": 43,
+              "ping": 2,
+              "serv": 1,
+              "reload": 1,
+              "userinfo": 2,
+              "stop": 1,
+              "leave": 1,
+              "test": 2,
+              "calculator": 5
+            },
+            "193722614705946624": {
+              "help": 4,
+              "automod": 3,
+              "play": 3,
+              "skip": 1,
+              "pause": 1,
+              "unpause": 1,
+              "ping": 1,
+              "serv": 1,
+              "beta": 1,
+              "data": 2,
+              "xp": 1
+            },
+            "455329056456441868": {
+              "ping": 1
+            },
+            "499644746596352011": {
+              "help": 1,
+              "userinfo": 2
+            },
+            "793141903498805298": {
+              "advancement": 1
+            },
+            "883014874630877225": {
+              "userinfo": 1,
+              "help": 1
+            },
+            "310862237487202307": {
+              "leave": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "01-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "userinfo": 2,
+            "profile": 2,
+            "help": 3,
+            "eval": 7,
+            "beta": 2,
+            "8ball": 1,
+            "play": 19,
+            "leave": 4,
+            "pause": 1,
+            "loop": 1,
+            "nowplaying": 1
+          },
+          "users": {
+            "550041732893376542": {
+              "userinfo": 1,
+              "play": 12,
+              "eval": 1,
+              "leave": 1
+            },
+            "782164174821523467": {
+              "profile": 1,
+              "help": 1,
+              "eval": 6,
+              "userinfo": 1
+            },
+            "865684735547932713": {
+              "profile": 1
+            },
+            "805154628710301716": {
+              "beta": 2
+            },
+            "883695501218820136": {
+              "8ball": 1
+            },
+            "747750324206305320": {
+              "play": 5,
+              "leave": 2,
+              "pause": 1
+            },
+            "415427094500343809": {
+              "play": 1,
+              "loop": 1,
+              "help": 2,
+              "nowplaying": 1,
+              "leave": 1
+            },
+            "578603547038318612": {
+              "play": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "02-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "userinfo": 1,
+            "profile": 9,
+            "eval": 53,
+            "help": 6,
+            "play": 43,
+            "leave": 10,
+            "clearqueue": 2,
+            "bot": 1,
+            "stop": 1,
+            "reload": 1,
+            "skip": 8,
+            "queue": 2,
+            "xp": 1,
+            "ping": 1,
+            "blacklist": 2,
+            "loop": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "userinfo": 1,
+              "eval": 53,
+              "bot": 1,
+              "play": 2,
+              "stop": 1,
+              "leave": 2,
+              "reload": 1,
+              "profile": 3,
+              "xp": 1,
+              "blacklist": 2
+            },
+            "865684735547932713": {
+              "profile": 6
+            },
+            "793141903498805298": {
+              "help": 2
+            },
+            "415427094500343809": {
+              "play": 21,
+              "leave": 5,
+              "help": 1,
+              "clearqueue": 1,
+              "skip": 3,
+              "queue": 1
+            },
+            "769643439163310081": {
+              "play": 2,
+              "ping": 1,
+              "help": 2
+            },
+            "578603547038318612": {
+              "play": 4,
+              "skip": 2
+            },
+            "489440382631804938": {
+              "play": 2,
+              "leave": 3
+            },
+            "814590290710102086": {
+              "skip": 3,
+              "play": 5
+            },
+            "564478205625499672": {
+              "play": 2
+            },
+            "617426354706710632": {
+              "help": 1,
+              "play": 4,
+              "loop": 1,
+              "queue": 1,
+              "clearqueue": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "03-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "profile": 9,
+            "eval": 49,
+            "pp": 1,
+            "blacklist": 1,
+            "8ball": 6,
+            "userinfo": 1,
+            "invite": 1,
+            "play": 73,
+            "queue": 1,
+            "stop": 7,
+            "leave": 9,
+            "help": 2,
+            "bot": 1,
+            "skip": 9,
+            "calculator": 6,
+            "volume": 5,
+            "loop": 5
+          },
+          "users": {
+            "865684735547932713": {
+              "profile": 9,
+              "play": 1
+            },
+            "782164174821523467": {
+              "eval": 45,
+              "pp": 1,
+              "blacklist": 1,
+              "userinfo": 1,
+              "invite": 1,
+              "calculator": 6,
+              "play": 1
+            },
+            "883695501218820136": {
+              "8ball": 6
+            },
+            "660951240875704321": {
+              "play": 9,
+              "queue": 1,
+              "stop": 7,
+              "leave": 2
+            },
+            "747750324206305320": {
+              "play": 1
+            },
+            "709815588016357429": {
+              "help": 1,
+              "bot": 1
+            },
+            "489440382631804938": {
+              "play": 3
+            },
+            "578603547038318612": {
+              "skip": 2,
+              "play": 1
+            },
+            "814590290710102086": {
+              "play": 6
+            },
+            "499638735705604126": {
+              "play": 1
+            },
+            "415427094500343809": {
+              "play": 19,
+              "leave": 4,
+              "skip": 6,
+              "help": 1,
+              "volume": 1,
+              "loop": 3
+            },
+            "617426354706710632": {
+              "play": 3,
+              "volume": 2,
+              "leave": 2
+            },
+            "550041732893376542": {
+              "play": 28,
+              "leave": 1,
+              "skip": 1,
+              "volume": 2,
+              "loop": 2,
+              "eval": 4
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "04-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "help": 2,
+            "8ball": 2,
+            "reload": 1,
+            "play": 21,
+            "volume": 4,
+            "leave": 4,
+            "userinfo": 3,
+            "pp": 1,
+            "eval": 47,
+            "ping": 2,
+            "skip": 5,
+            "nowplaying": 1,
+            "loop": 3,
+            "calculator": 11
+          },
+          "users": {
+            "499644746596352011": {
+              "help": 1
+            },
+            "581479159461707786": {
+              "8ball": 2
+            },
+            "782164174821523467": {
+              "reload": 1,
+              "userinfo": 3,
+              "eval": 31,
+              "ping": 2,
+              "calculator": 5
+            },
+            "660951240875704321": {
+              "play": 1,
+              "volume": 4,
+              "leave": 1
+            },
+            "709815588016357429": {
+              "pp": 1
+            },
+            "415427094500343809": {
+              "play": 12,
+              "skip": 4,
+              "leave": 3,
+              "help": 1,
+              "nowplaying": 1,
+              "loop": 3
+            },
+            "575612252405628928": {
+              "play": 6,
+              "skip": 1
+            },
+            "617426354706710632": {
+              "play": 2
+            },
+            "883014874630877225": {
+              "eval": 14
+            },
+            "550041732893376542": {
+              "calculator": 6,
+              "eval": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "05-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 24,
+            "reload": 1,
+            "help": 5,
+            "youtube": 4,
+            "bot": 1,
+            "ping": 1,
+            "pp": 1,
+            "invite": 1,
+            "8ball": 5,
+            "play": 3,
+            "loop": 3,
+            "userinfo": 1,
+            "prefix": 2
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 22,
+              "reload": 1,
+              "help": 1,
+              "pp": 1,
+              "invite": 1,
+              "userinfo": 1,
+              "youtube": 1
+            },
+            "550041732893376542": {
+              "eval": 2,
+              "play": 3,
+              "loop": 3,
+              "youtube": 2
+            },
+            "710836174050164757": {
+              "youtube": 1,
+              "help": 2,
+              "bot": 1,
+              "ping": 1
+            },
+            "865684735547932713": {
+              "8ball": 5
+            },
+            "878029449315115099": {
+              "help": 2,
+              "prefix": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "06-10-2021": {
+        "guilds": {
+          "join": 10,
+          "leave": 5,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "bot": 3,
+            "eval": 77,
+            "reload": 1,
+            "play": 55,
+            "enable": 1,
+            "nowplaying": 1,
+            "skip": 5,
+            "stop": 3,
+            "leave": 10,
+            "8ball": 4,
+            "pp": 2,
+            "serv": 2,
+            "help": 6,
+            "advancement": 1,
+            "volume": 10,
+            "loop": 14,
+            "queue": 1,
+            "automod": 3,
+            "userinfo": 3,
+            "blacklist": 2
+          },
+          "users": {
+            "782164174821523467": {
+              "bot": 3,
+              "eval": 67,
+              "reload": 1,
+              "play": 17,
+              "nowplaying": 1,
+              "skip": 3,
+              "stop": 3,
+              "leave": 3,
+              "8ball": 1,
+              "pp": 2,
+              "serv": 2,
+              "help": 2,
+              "advancement": 1,
+              "volume": 6,
+              "userinfo": 1,
+              "blacklist": 2
+            },
+            "769643439163310081": {
+              "play": 7,
+              "8ball": 2
+            },
+            "887614894969589770": {
+              "enable": 1
+            },
+            "747750324206305320": {
+              "8ball": 1
+            },
+            "550041732893376542": {
+              "eval": 10,
+              "play": 13,
+              "skip": 1,
+              "volume": 4,
+              "help": 1,
+              "automod": 2,
+              "userinfo": 2
+            },
+            "415427094500343809": {
+              "play": 9,
+              "skip": 1,
+              "loop": 5,
+              "queue": 1,
+              "leave": 1
+            },
+            "844224790817538099": {
+              "help": 2,
+              "automod": 1,
+              "play": 7,
+              "leave": 3,
+              "loop": 8
+            },
+            "855858106532757574": {
+              "leave": 2,
+              "loop": 1
+            },
+            "822864005630656584": {
+              "help": 1
+            },
+            "759151457051082812": {
+              "leave": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "07-10-2021": {
+        "guilds": {
+          "join": 3,
+          "leave": 2,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "loop": 1,
+            "play": 25,
+            "help": 5,
+            "8ball": 2,
+            "poker": 1,
+            "bot": 2,
+            "invite": 1,
+            "serv": 1,
+            "userinfo": 1,
+            "pp": 1,
+            "calculator": 1,
+            "leave": 4,
+            "reload": 1,
+            "ping": 7,
+            "eval": 28,
+            "stop": 1,
+            "nowplaying": 1,
+            "skip": 3
+          },
+          "users": {
+            "862249194327506945": {
+              "loop": 1,
+              "play": 2
+            },
+            "715628925111238677": {
+              "help": 1
+            },
+            "608767196839018507": {
+              "help": 3,
+              "8ball": 1,
+              "poker": 1,
+              "bot": 1,
+              "invite": 1,
+              "serv": 1,
+              "userinfo": 1,
+              "pp": 1,
+              "play": 1,
+              "calculator": 1
+            },
+            "617426354706710632": {
+              "play": 3,
+              "leave": 1
+            },
+            "782164174821523467": {
+              "reload": 1,
+              "play": 1,
+              "ping": 7,
+              "eval": 9,
+              "help": 1,
+              "bot": 1,
+              "nowplaying": 1,
+              "leave": 1
+            },
+            "660951240875704321": {
+              "play": 1,
+              "stop": 1,
+              "leave": 1
+            },
+            "865684735547932713": {
+              "8ball": 1
+            },
+            "564478205625499672": {
+              "play": 17,
+              "skip": 3,
+              "leave": 1
+            },
+            "550041732893376542": {
+              "eval": 19
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "08-10-2021": {
+        "guilds": {
+          "join": 9,
+          "leave": 2,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 25,
+            "bot": 1,
+            "pp": 3,
+            "8ball": 3,
+            "play": 22,
+            "leave": 10,
+            "skip": 3,
+            "loop": 3,
+            "save": 1,
+            "volume": 1,
+            "stop": 1,
+            "queue": 1,
+            "help": 3,
+            "profile": 1,
+            "advancement": 1,
+            "serv": 1,
+            "userinfo": 1
+          },
+          "users": {
+            "550041732893376542": {
+              "eval": 1
+            },
+            "782164174821523467": {
+              "eval": 24,
+              "bot": 1,
+              "pp": 3
+            },
+            "560209463857119235": {
+              "8ball": 2
+            },
+            "415427094500343809": {
+              "play": 8,
+              "leave": 5,
+              "skip": 2,
+              "loop": 3
+            },
+            "512668040068857857": {
+              "play": 2,
+              "volume": 1,
+              "skip": 1,
+              "stop": 1,
+              "leave": 1
+            },
+            "865684735547932713": {
+              "play": 2,
+              "queue": 1
+            },
+            "793141903498805298": {
+              "help": 3,
+              "profile": 1,
+              "advancement": 1,
+              "serv": 1,
+              "userinfo": 1,
+              "8ball": 1
+            },
+            "564478205625499672": {
+              "play": 10,
+              "leave": 4
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "09-10-2021": {
+        "guilds": {
+          "join": 3,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "stop": 1,
+            "loop": 2,
+            "eval": 59,
+            "pp": 1,
+            "calculator": 2,
+            "help": 2,
+            "play": 3,
+            "bot": 1,
+            "serv": 1
+          },
+          "users": {
+            "647727873813250048": {
+              "stop": 1
+            },
+            "844224790817538099": {
+              "loop": 1
+            },
+            "782164174821523467": {
+              "eval": 59,
+              "pp": 1,
+              "bot": 1
+            },
+            "855858106532757574": {
+              "loop": 1
+            },
+            "883014874630877225": {
+              "calculator": 2
+            },
+            "789893987028828171": {
+              "help": 1
+            },
+            "892559486642958367": {
+              "play": 3,
+              "help": 1
+            },
+            "793141903498805298": {
+              "serv": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "10-10-2021": {
+        "guilds": {
+          "join": 3,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "loop": 2,
+            "play": 3,
+            "eval": 54,
+            "profile": 3,
+            "beta": 1,
+            "help": 2,
+            "prefix": 1,
+            "ping": 1,
+            "calculator": 3,
+            "8ball": 1,
+            "blacklist": 1
+          },
+          "users": {
+            "862249194327506945": {
+              "loop": 2
+            },
+            "892559486642958367": {
+              "play": 3
+            },
+            "782164174821523467": {
+              "eval": 52,
+              "beta": 1,
+              "help": 1,
+              "ping": 1,
+              "calculator": 3,
+              "blacklist": 1
+            },
+            "709815588016357429": {
+              "eval": 2
+            },
+            "865684735547932713": {
+              "profile": 3,
+              "help": 1,
+              "prefix": 1
+            },
+            "793141903498805298": {
+              "8ball": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "11-10-2021": {
+        "guilds": {
+          "join": 2,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 57,
+            "userinfo": 2,
+            "ping": 2,
+            "help": 2,
+            "play": 3,
+            "loop": 1,
+            "pause": 3,
+            "pp": 3,
+            "stop": 1,
+            "leave": 1,
+            "unpause": 1
+          },
+          "users": {
+            "550041732893376542": {
+              "eval": 31,
+              "play": 2,
+              "loop": 1,
+              "pause": 3,
+              "help": 1,
+              "unpause": 1
+            },
+            "782164174821523467": {
+              "eval": 26,
+              "userinfo": 1,
+              "ping": 2,
+              "help": 1,
+              "pp": 1,
+              "stop": 1,
+              "leave": 1
+            },
+            "865684735547932713": {
+              "userinfo": 1
+            },
+            "660951240875704321": {
+              "play": 1
+            },
+            "883014874630877225": {
+              "pp": 1
+            },
+            "816708235440029706": {
+              "pp": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "12-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "userinfo": 1,
+            "eval": 3,
+            "play": 19,
+            "help": 2,
+            "pause": 1,
+            "skip": 2,
+            "loop": 2,
+            "leave": 3,
+            "stop": 2,
+            "volume": 4,
+            "queue": 1,
+            "nowplaying": 1,
+            "end": 1,
+            "pp": 1,
+            "roleinfo": 4
+          },
+          "users": {
+            "782164174821523467": {
+              "userinfo": 1,
+              "eval": 3,
+              "play": 4,
+              "skip": 1,
+              "stop": 2,
+              "volume": 4,
+              "end": 1,
+              "pp": 1,
+              "leave": 2,
+              "roleinfo": 4
+            },
+            "550041732893376542": {
+              "play": 6,
+              "help": 1,
+              "pause": 1,
+              "skip": 1,
+              "loop": 1,
+              "leave": 1
+            },
+            "617426354706710632": {
+              "play": 9,
+              "queue": 1,
+              "help": 1,
+              "nowplaying": 1,
+              "loop": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "13-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "blacklist": 1,
+            "userinfo": 2,
+            "eval": 11,
+            "roleinfo": 1,
+            "serv": 5,
+            "reload": 2,
+            "ping": 2,
+            "play": 2,
+            "stop": 1,
+            "leave": 1,
+            "help": 1,
+            "profile": 3
+          },
+          "users": {
+            "782164174821523467": {
+              "blacklist": 1,
+              "userinfo": 1,
+              "eval": 10,
+              "roleinfo": 1,
+              "serv": 5,
+              "reload": 2,
+              "ping": 2,
+              "play": 2,
+              "stop": 1,
+              "leave": 1
+            },
+            "865684735547932713": {
+              "userinfo": 1,
+              "profile": 1
+            },
+            "550041732893376542": {
+              "eval": 1
+            },
+            "832223704884445226": {
+              "help": 1
+            },
+            "883014874630877225": {
+              "profile": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "14-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "help": 2,
+            "play": 2
+          },
+          "users": {
+            "580811402067836928": {
+              "help": 1
+            },
+            "865684735547932713": {
+              "help": 1
+            },
+            "512668040068857857": {
+              "play": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "15-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "stop": 1,
+            "loop": 1,
+            "play": 6,
+            "volume": 3,
+            "leave": 2,
+            "skip": 1,
+            "eval": 1
+          },
+          "users": {
+            "647727873813250048": {
+              "stop": 1,
+              "loop": 1
+            },
+            "769643439163310081": {
+              "play": 5,
+              "volume": 3,
+              "leave": 1,
+              "skip": 1
+            },
+            "578603547038318612": {
+              "play": 1
+            },
+            "782164174821523467": {
+              "eval": 1
+            },
+            "489440382631804938": {
+              "leave": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "16-10-2021": {
+        "guilds": {
+          "join": 3,
+          "leave": 2,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 59,
+            "help": 5,
+            "bot": 3,
+            "play": 1,
+            "leave": 1,
+            "ping": 1,
+            "userinfo": 2,
+            "pp": 1,
+            "blacklist": 5,
+            "invite": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 58,
+              "help": 1,
+              "bot": 2,
+              "ping": 1,
+              "userinfo": 2,
+              "pp": 1,
+              "blacklist": 5,
+              "invite": 1
+            },
+            "580811402067836928": {
+              "help": 1
+            },
+            "415427094500343809": {
+              "play": 1,
+              "leave": 1
+            },
+            "550041732893376542": {
+              "bot": 1,
+              "eval": 1
+            },
+            "564478205625499672": {
+              "help": 3
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "17-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "userinfo": 2,
+            "play": 1,
+            "eval": 3,
+            "bot": 1,
+            "help": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "userinfo": 1,
+              "eval": 3
+            },
+            "578603547038318612": {
+              "play": 1
+            },
+            "550041732893376542": {
+              "userinfo": 1,
+              "bot": 1,
+              "help": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "18-10-2021": {
+        "guilds": {
+          "join": 2,
+          "leave": 2,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "help": 3,
+            "beta": 1,
+            "eval": 24,
+            "xp": 3,
+            "profile": 2,
+            "userinfo": 1,
+            "blacklist": 1
+          },
+          "users": {
+            "769643439163310081": {
+              "help": 2,
+              "beta": 1
+            },
+            "782164174821523467": {
+              "eval": 24,
+              "xp": 3,
+              "help": 1,
+              "profile": 2,
+              "userinfo": 1,
+              "blacklist": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "19-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "loop": 3,
+            "stop": 1,
+            "userinfo": 2,
+            "eval": 22,
+            "play": 1,
+            "blacklist": 2
+          },
+          "users": {
+            "844224790817538099": {
+              "loop": 2
+            },
+            "647727873813250048": {
+              "stop": 1
+            },
+            "550041732893376542": {
+              "userinfo": 1,
+              "eval": 6,
+              "blacklist": 2
+            },
+            "782164174821523467": {
+              "userinfo": 1,
+              "eval": 6
+            },
+            "709815588016357429": {
+              "eval": 10
+            },
+            "415427094500343809": {
+              "play": 1,
+              "loop": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "20-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "loop": 1,
+            "eval": 48,
+            "userinfo": 1,
+            "calculator": 2
+          },
+          "users": {
+            "647727873813250048": {
+              "loop": 1
+            },
+            "782164174821523467": {
+              "eval": 32,
+              "userinfo": 1,
+              "calculator": 2
+            },
+            "550041732893376542": {
+              "eval": 16
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "21-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "youtube": 1,
+            "fishing": 1,
+            "help": 3,
+            "eval": 39,
+            "userinfo": 1,
+            "play": 4,
+            "queue": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "youtube": 1,
+              "fishing": 1,
+              "help": 1,
+              "eval": 35,
+              "userinfo": 1
+            },
+            "550041732893376542": {
+              "eval": 4
+            },
+            "852615057141137429": {
+              "help": 1
+            },
+            "415427094500343809": {
+              "play": 2,
+              "queue": 1
+            },
+            "564478205625499672": {
+              "help": 1,
+              "play": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "22-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 4,
+            "play": 2,
+            "leave": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 4,
+              "play": 2,
+              "leave": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "23-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "ping": 1,
+            "eval": 5,
+            "blacklist": 2
+          },
+          "users": {
+            "769643439163310081": {
+              "ping": 1
+            },
+            "550041732893376542": {
+              "eval": 1,
+              "blacklist": 1
+            },
+            "782164174821523467": {
+              "eval": 4,
+              "blacklist": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "24-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "play": 1,
+            "eval": 20,
+            "8ball": 1,
+            "help": 2,
+            "userinfo": 2,
+            "calculator": 1,
+            "beta": 2,
+            "pp": 1,
+            "ping": 2
+          },
+          "users": {
+            "901568497958678539": {
+              "play": 1
+            },
+            "782164174821523467": {
+              "eval": 20,
+              "8ball": 1,
+              "help": 2,
+              "userinfo": 2,
+              "calculator": 1,
+              "beta": 2,
+              "pp": 1,
+              "ping": 2
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "25-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "eval": 15,
+            "help": 2,
+            "userinfo": 1,
+            "pp": 3
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 15,
+              "userinfo": 1,
+              "pp": 3
+            },
+            "580811402067836928": {
+              "help": 1
+            },
+            "793141903498805298": {
+              "help": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "26-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1,
+          "aciveGuilds": {
+            "score": 0,
+            "guilds": {}
+          }
+        },
+        "commands": {
+          "cmd": {
+            "help": 2,
+            "userinfo": 2,
+            "xp": 1,
+            "pp": 2,
+            "eval": 49,
+            "ping": 1,
+            "youtube": 1,
+            "play": 3,
+            "skip": 1,
+            "end": 1,
+            "support": 1,
+            "save": 2,
+            "reload": 2,
+            "8ball": 1
+          },
+          "users": {
+            "805154628710301716": {
+              "help": 1,
+              "userinfo": 1,
+              "xp": 1
+            },
+            "782164174821523467": {
+              "pp": 2,
+              "userinfo": 1,
+              "eval": 25,
+              "ping": 1,
+              "youtube": 1,
+              "end": 0,
+              "support": 1,
+              "save": 2,
+              "reload": 2,
+              "help": 1
+            },
+            "399972795318272011": {
+              "play": 3,
+              "skip": 1
+            },
+            "550041732893376542": {
+              "eval": 24
+            },
+            "747750324206305320": {
+              "8ball": 1
+            }
+          }
+        },
+        "music": {
+          "music": 0,
+          "queueLength": 0
+        }
+      },
+      "27-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "language": 1,
+            "eval": 30,
+            "bot": 3,
+            "help": 1,
+            "serv": 1,
+            "calculator": 5,
+            "youtube": 2,
+            "save": 2
+          },
+          "users": {
+            "793141903498805298": {
+              "language": 1
+            },
+            "782164174821523467": {
+              "eval": 24,
+              "bot": 3,
+              "help": 1,
+              "serv": 1,
+              "calculator": 5,
+              "youtube": 2,
+              "save": 1
+            },
+            "550041732893376542": {
+              "eval": 1
+            },
+            "709815588016357429": {
+              "eval": 5
+            }
+          }
+        }
+      },
+      "28-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "ping": 2,
+            "help": 6,
+            "eval": 57,
+            "end": 1,
+            "invite": 1,
+            "language": 3,
+            "enable": 0,
+            "fishing": 1,
+            "youtube": 2,
+            "serv": 2,
+            "pp": 1,
+            "prefix": 2
+          },
+          "users": {
+            "550041732893376542": {
+              "ping": 1,
+              "eval": 4
+            },
+            "709815588016357429": {
+              "help": 2,
+              "eval": 1,
+              "end": 1
+            },
+            "782164174821523467": {
+              "eval": 52,
+              "ping": 1,
+              "invite": 1,
+              "language": 3,
+              "pp": 1
+            },
+            "843065956862263296": {
+              "fishing": 1,
+              "youtube": 2,
+              "serv": 2,
+              "help": 3,
+              "prefix": 2
+            }
+          }
+        }
+      },
+      "29-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 55,
+            "pp": 2,
+            "reload": 1,
+            "ping": 3,
+            "help": 2
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 47,
+              "pp": 2,
+              "reload": 1,
+              "ping": 3
+            },
+            "709815588016357429": {
+              "eval": 8,
+              "help": 1
+            },
+            "415427094500343809": {
+              "help": 1
+            }
+          }
+        }
+      },
+      "30-10-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 19,
+            "pp": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 14
+            },
+            "550041732893376542": {
+              "eval": 5
+            },
+            "816708235440029706": {
+              "pp": 1
+            }
+          }
+        }
+      },
+      "31-10-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 17,
+            "ping": 1,
+            "bot": 1,
+            "help": 5,
+            "serv": 3,
+            "prefix": 3
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 17,
+              "ping": 1,
+              "bot": 1,
+              "help": 2
+            },
+            "879308385454006292": {
+              "help": 2,
+              "serv": 3
+            },
+            "843065956862263296": {
+              "help": 1,
+              "prefix": 3
+            }
+          }
+        }
+      },
+      "01-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 29,
+            "prefix": 1,
+            "pp": 2,
+            "save": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 25,
+              "prefix": 1,
+              "save": 1
+            },
+            "793141903498805298": {
+              "pp": 2
+            },
+            "709815588016357429": {
+              "eval": 4
+            }
+          }
+        }
+      },
+      "02-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "bot": 1,
+            "help": 4,
+            "pp": 1,
+            "eval": 9
+          },
+          "users": {
+            "782164174821523467": {
+              "bot": 1,
+              "eval": 9
+            },
+            "744480538026311721": {
+              "help": 4
+            },
+            "816708235440029706": {
+              "pp": 1
+            }
+          }
+        }
+      },
+      "03-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 30,
+            "help": 4,
+            "calculator": 3,
+            "bot": 1,
+            "pp": 1,
+            "invite": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 30,
+              "pp": 1,
+              "invite": 1
+            },
+            "879308385454006292": {
+              "help": 3
+            },
+            "550041732893376542": {
+              "calculator": 3,
+              "bot": 1,
+              "help": 1
+            }
+          }
+        }
+      },
+      "04-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1
+        },
+        "commands": {
+          "cmd": {
+            "eval": 88,
+            "help": 2,
+            "userinfo": 9,
+            "pp": 4,
+            "profile": 1
+          },
+          "users": {
+            "550041732893376542": {
+              "eval": 33,
+              "userinfo": 6,
+              "pp": 1
+            },
+            "744480538026311721": {
+              "help": 1
+            },
+            "782164174821523467": {
+              "eval": 55,
+              "userinfo": 2,
+              "pp": 3
+            },
+            "578603547038318612": {
+              "help": 1
+            },
+            "310862237487202307": {
+              "userinfo": 1
+            },
+            "865684735547932713": {
+              "profile": 1
+            }
+          }
+        }
+      },
+      "05-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1
+        },
+        "commands": {
+          "cmd": {
+            "help": 2,
+            "eval": 20,
+            "youtube": 3,
+            "pp": 2,
+            "serv": 1,
+            "invite": 1,
+            "support": 1,
+            "bot": 3,
+            "vote": 1,
+            "calculator": 5
+          },
+          "users": {
+            "744480538026311721": {
+              "help": 1
+            },
+            "782164174821523467": {
+              "eval": 14,
+              "youtube": 3,
+              "pp": 1,
+              "serv": 1,
+              "invite": 1,
+              "support": 1,
+              "bot": 1,
+              "vote": 1,
+              "calculator": 4
+            },
+            "793141903498805298": {
+              "help": 1,
+              "bot": 2
+            },
+            "550041732893376542": {
+              "calculator": 1,
+              "eval": 6
+            },
+            "596705756410019861": {
+              "pp": 0
+            }
+          }
+        }
+      },
+      "06-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "eval": 28,
+            "vote": 1,
+            "roleinfo": 1,
+            "userinfo": 2,
+            "bot": 1,
+            "help": 1,
+            "calculator": 8,
+            "profile": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 24,
+              "userinfo": 1,
+              "calculator": 4
+            },
+            "550041732893376542": {
+              "eval": 4,
+              "calculator": 2
+            },
+            "793141903498805298": {
+              "vote": 1,
+              "roleinfo": 1,
+              "bot": 1
+            },
+            "883014874630877225": {
+              "help": 1
+            },
+            "709815588016357429": {
+              "calculator": 2
+            },
+            "816708235440029706": {
+              "profile": 1
+            }
+          }
+        }
+      },
+      "07-11-2021": {
+        "guilds": {
+          "join": 1,
+          "leave": 1
+        },
+        "commands": {
+          "cmd": {
+            "roleinfo": 19,
+            "eval": 15,
+            "serv": 4,
+            "8ball": 10,
+            "pp": 7,
+            "calculator": 1,
+            "help": 9,
+            "advancement": 1,
+            "profile": 5,
+            "betrayal": 2,
+            "chess": 7,
+            "fishing": 4,
+            "poker": 1,
+            "ping": 1,
+            "support": 1,
+            "invite": 1,
+            "userinfo": 3,
+            "language": 1,
+            "prefix": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "roleinfo": 13,
+              "eval": 15,
+              "serv": 2,
+              "8ball": 2,
+              "calculator": 1
+            },
+            "491631704763531264": {
+              "8ball": 1,
+              "pp": 1,
+              "serv": 1
+            },
+            "865684735547932713": {
+              "8ball": 5,
+              "help": 4,
+              "betrayal": 2,
+              "chess": 7,
+              "fishing": 3,
+              "poker": 1,
+              "ping": 1,
+              "roleinfo": 5,
+              "serv": 1,
+              "support": 1,
+              "profile": 2
+            },
+            "310862237487202307": {
+              "8ball": 1
+            },
+            "816708235440029706": {
+              "8ball": 1,
+              "pp": 1,
+              "fishing": 1,
+              "userinfo": 1
+            },
+            "793141903498805298": {
+              "pp": 1,
+              "help": 1,
+              "advancement": 1,
+              "invite": 1,
+              "roleinfo": 1,
+              "userinfo": 1
+            },
+            "710056095095324712": {
+              "pp": 1
+            },
+            "799353940759805984": {
+              "profile": 1
+            },
+            "511575946692657152": {
+              "profile": 1
+            },
+            "580811402067836928": {
+              "pp": 1,
+              "userinfo": 1
+            },
+            "617426354706710632": {
+              "help": 1
+            },
+            "806055408300326964": {
+              "pp": 1
+            },
+            "805154628710301716": {
+              "pp": 1,
+              "profile": 1
+            },
+            "458218450393890831": {
+              "help": 3,
+              "language": 1,
+              "prefix": 1
+            }
+          }
+        }
+      },
+      "08-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 0
+        },
+        "commands": {
+          "cmd": {
+            "profile": 1,
+            "serv": 3,
+            "poker": 1,
+            "pp": 1
+          },
+          "users": {
+            "596705756410019861": {
+              "profile": 1
+            },
+            "782164174821523467": {
+              "serv": 2
+            },
+            "414106691672604673": {
+              "serv": 1
+            },
+            "865684735547932713": {
+              "poker": 1
+            },
+            "479967974221152257": {
+              "pp": 1
+            }
+          }
+        }
+      },
+      "09-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1
+        },
+        "commands": {
+          "cmd": {
+            "reload": 2,
+            "pp": 1,
+            "profile": 1,
+            "eval": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "reload": 2,
+              "eval": 1
+            },
+            "775962937315033099": {
+              "pp": 1
+            },
+            "580811402067836928": {
+              "profile": 1
+            }
+          }
+        }
+      },
+      "10-11-2021": {
+        "guilds": {
+          "join": 0,
+          "leave": 1
+        },
+        "commands": {
+          "cmd": {
+            "eval": 8,
+            "pp": 4,
+            "8ball": 3,
+            "userinfo": 1
+          },
+          "users": {
+            "782164174821523467": {
+              "eval": 8,
+              "8ball": 2,
+              "pp": 1,
+              "userinfo": 1
+            },
+            "509051482046464002": {
+              "pp": 3
+            },
+            "816708235440029706": {
+              "8ball": 1
+            }
+          }
+        }
+      }
+    },
+    "@metadata": {
+      "@nested-object-types": {},
+      "Raven-Node-Type": null,
+      "@change-vector": "A:24815-qZVjjM7z9UG9n4Zl45aUsQ",
+      "@id": "system/stats",
+      "@last-modified": "2021-11-10T21:47:45.0972696Z"
+    },
+    "id": "system/stats"
+  }
+]

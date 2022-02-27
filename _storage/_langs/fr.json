@@ -1,0 +1,878 @@
+{
+  "name": "Francais",
+  "acronym": "fr",
+  "inviteLink": "https://discord.com/api/oauth2/authorize?client_id=858766319506554899&permissions=8&redirect_uri=https%3A%2F%2Fkady.tlkoe.xyz&response_type=code&scope=bot%20applications.commands%20guilds%20identify",
+  "color": {
+    "primary": "#d3b7b7",
+    "secondary": "#50afcb",
+    "sanction": "8c000f",
+    "success": "519259"
+  },
+  "test": "<emj:error> bonjour ici",
+  "misc": {
+    "logsAdd": {
+      "noValidEvent": "> <emj:close> ** ** **Aucun évènement disponible n'a été trouvé.**",
+      "noValidChannel": "> <emj:close> ** ** **Aucun salon valide n'a été trouvé.**",
+      "addSuccess": "> <emj:check> ** ** **Le salon <#$2> a été synchronisé avec ces évènements :**\n- $1",
+      "removeSuccess": "> <emj:check> ** ** **Le salon <#$2> n'est plus synchronisé avec ces évènements :**\n- $1"
+    },
+    "help": {
+      "noAliase": "Aucun aliase.",
+      "footerName": "Page $1/$2",
+      "category": { "fun": "Fun", "dev": "Dev", "info": "Info", "user": "User", "sommaire": "Sommaire" },
+      "specificCommand": "Aide de la commande \"$1\" :",
+      "fields": { "aliase": "Aliase :", "ctg": "Catégorie :", "desc": "Description :", "use": "Utilisation :" },
+      "noCommands": { "default": "Aucune commande n'est disponible pour cette catégorie." },
+      "DashComponents": []
+    },
+    "category": {
+      "dev": "developpement",
+      "user": "utilisateur",
+      "mod": "modération",
+      "info": "information",
+      "util": "outils",
+      "config": "configuration",
+      "tdk": "The Discord Kingdom",
+      "fun": "fun",
+      "economy": "économie"
+    },
+    "gifs": {
+      "list": {
+        "love": [
+          "https://c.tenor.com/v3MiwKcqKHAAAAAd/sagiri-izumi-sagiri.gif",
+          "https://c.tenor.com/0hMf-kbnRtIAAAAC/eli-hug-love.gif",
+          "https://c.tenor.com/KpF-3Y1_UeEAAAAd/asteroid-in-love-ao-manaka.gif",
+          "https://c.tenor.com/Cchd6VOMDIwAAAAC/forehead-forehead-kiss.gif",
+          "https://c.tenor.com/0gCYBXXb2toAAAAC/hug-hugs-and-love.gif",
+          "https://c.tenor.com/0PIj7XctFr4AAAAC/a-whisker-away-hug.gif",
+          "https://c.tenor.com/OV5ltVkjtooAAAAC/love-you-happy.gif"
+        ],
+        "kill": [
+          "https://c.tenor.com/KxFfj9DgILoAAAAC/toradora-taiga.gif",
+          "https://c.tenor.com/WxLl5mre8pYAAAAd/anime-kill.gif",
+          "https://c.tenor.com/6QAwJhmtZm0AAAAC/die-i-will-find-you.gif",
+          "https://c.tenor.com/f_Q2eibWWWcAAAAC/anime.gif",
+          "https://c.tenor.com/C1Forv0atl0AAAAd/muerete-enojada.gif",
+          "https://c.tenor.com/XLNHiaNsW20AAAAC/choke-anime.gif"
+        ],
+        "punch": [
+          "https://c.tenor.com/iJhyeogN3icAAAAC/rimuru-rimuru-punch.gif",
+          "https://c.tenor.com/aEX1wE-WrEMAAAAC/anime-right-in-the-stomach.gif",
+          "https://c.tenor.com/6a42QlkVsCEAAAAd/anime-punch.gif",
+          "https://c.tenor.com/BoYBoopIkBcAAAAC/anime-smash.gif",
+          "https://c.tenor.com/EfhPfbG0hnMAAAAC/slap-handa-seishuu.gif",
+          "https://c.tenor.com/pWsDmzzFe3YAAAAC/fumoffu-full-metal-panic.gif"
+        ],
+        "hug": [
+          "https://c.tenor.com/UhcyGsGpLNIAAAAC/hug-anime.gif",
+          "https://c.tenor.com/G9yuomdknAsAAAAd/anime-couple.gif",
+          "https://c.tenor.com/SXk-WqF6PpQAAAAC/anime-hug.gif",
+          "https://c.tenor.com/xgVPw2QK5n8AAAAC/sakura-quest-anime.gif",
+          "https://c.tenor.com/DVOTqLcB2jUAAAAC/anime-hug-love.gif",
+          "https://c.tenor.com/9e1aE_xBLCsAAAAC/anime-hug.gif"
+        ],
+        "blush": [
+          "https://c.tenor.com/dH4YL72had0AAAAC/blush-anime.gif",
+          "https://c.tenor.com/drXL2anR7pwAAAAC/karma-anime.gif",
+          "https://c.tenor.com/Afabr3doB0EAAAAC/anime-blush.gif",
+          "https://c.tenor.com/VrfSZUjiWn4AAAAC/shy-anime.gif",
+          "https://c.tenor.com/liqgmFIpRPkAAAAC/sad.gif",
+          "https://c.tenor.com/cFcwjK-MYzwAAAAC/blushing-anime-girl.gif"
+        ],
+        "kiss": [
+          "https://c.tenor.com/kDvEn5ojyYYAAAAd/shy-anime-blush.gif",
+          "https://c.tenor.com/ynzzhtf7qA0AAAAC/anime-blow-a-kiss.gif",
+          "https://c.tenor.com/_6hgYIXDWpUAAAAC/kiss-anime.gif",
+          "https://c.tenor.com/ErAPuiWY46QAAAAC/kiss-anime.gif",
+          "https://c.tenor.com/0mdCwkmGD1oAAAAC/kiss-love.gif",
+          "https://c.tenor.com/W571AcafidcAAAAC/anime-kissing.gif",
+          "https://c.tenor.com/MtKkjQF4rz4AAAAC/kiss-anime.gif",
+          "https://c.tenor.com/wDYWzpOTKgQAAAAC/anime-kiss.gif"
+        ]
+      },
+      "res": {
+        "love": {
+          "default": { "embeds": [{ "color": "#FF47BF", "description": "> 💗 ** ** `$2` **est tombé(e) sous le charme !**", "image": { "url": "$1" } }] },
+          "user": { "embeds": [{ "color": "#FF47BF", "description": "> 💗 ** ** `$2` **est tombé(e) sous le charme de** `$3` !", "image": { "url": "$1" } }] }
+        } ,
+        "kill": {
+          "default": { "embeds": [{ "color": "#730000", "description": "> 💢 ** ** `$2` **va tuer quelqu'un aujourd'hui ?!**", "image": { "url": "$1" } }] },
+          "user": { "embeds": [{ "color": "#730000", "description": "> 💢 ** ** `$2` **va tuer** `$3` ?!", "image": { "url": "$1" } }] }
+        },
+        "punch": {
+          "default": { "embeds": [{ "color": "#8A003F", "description": "> 👊 ** ** `$2` **a envie de frapper quelqu'un...**", "image": { "url": "$1" } }] },
+          "user": { "embeds": [{ "color": "#8A003F", "description": "> 👊 ** ** `$2` **a envie de frapper** `$3` ?!", "image": { "url": "$1" } }] }
+        },
+        "hug": {
+          "default": { "embeds": [{ "color": "#6A62AA", "description": "> 👍 ** ** `$2` **fait un gros calin !**", "image": { "url": "$1" } }] },
+          "user": { "embeds": [{ "color": "#6A62AA", "description": "> 👍 ** ** `$2` **fait un gros calin à** `$3` ?!", "image": { "url": "$1" } }] }
+        },
+        "blush": { "embeds": [{ "color": "#D76464", "description": "> 🔴 ** ** `$2` **rougis !**", "image": { "url": "$1" } }] },
+        "kiss": {
+          "default": { "embeds": [{ "color": "#D764C4", "description": "> 👍 ** ** `$2` **embrasse son/sa copin(e) !**", "image": { "url": "$1" } }] },
+          "user": { "embeds": [{ "color": "#D764C4", "description": "> 👍 ** ** `$2` **embrasse ** `$3` ?!", "image": { "url": "$1" } }] }
+        }
+      }
+    },
+    "events": {
+      "channelCreate": "Création d'un salon",
+      "channelDelete": "Suppression d'un salon",
+      "channelPinsUpdate": "Mise à jour des pins d'un salon",
+      "channelUpdate": "Mise à jour d'un salon",
+      "roleCreate": "Création d'un rôle",
+      "roleDelete": "Suppression d'un rôle",
+      "roleUpdate": "Mise à jour d'un rôle",
+      "guildBanAdd": "Bannissement d'un utilisateur",
+      "guildBanRemove": "Débannissement d'un utilisateur",
+      "guildCreate": "Création d'un serveur",
+      "guildDelete": "Suppression d'un serveur",
+      "guildMemberAdd": "Ajout d'un membre",
+      "guildMemberRemove": "Suppression d'un membre",
+      "guildMemberUpdate": "Mise à jour d'un membre",
+      "guildUpdate": "Mise à jour d'un serveur",
+      "messageDelete": "Suppression d'un message",
+      "messageDeleteBulk": "Suppression de plusieurs messages",
+      "messageReactionAdd": "Ajout d'une réaction",
+      "messageReactionRemove": "Suppression d'une réaction",
+      "messageReactionRemoveAll": "Suppression de toutes les réactions",
+      "messageUpdate": "Mise à jour d'un message",
+      "presenceUpdate": "Mise à jour de la présence",
+      "voiceStateUpdate": "Mise à jour de la vue",
+      "webhookUpdate": "Mise à jour d'un webhook",
+      "threadCreate": "Création d'un thread",
+      "threadDelete": "Suppression d'un thread",
+      "threadUpdate": "Mise à jour d'un thread"
+    }
+  },
+  "commands": {
+    "help": {
+      "desc": "Rien de mieux pour avoir des informations sur une commande !",
+      "use": "$1help\n$1help [commande]"
+    },
+    "avatar": {
+      "desc": "Cette commande permet d'avoir l'avatar de quelqu'un !",
+      "use": "$1avatar (user ?)",
+      "assets": { "embeds": [{ "color": "$3", "description": "> **Avatar de [$1]($2)**", "image": { "url": "$2" }, "footer": { "text": "Couleur moyenne: $3"} }] },
+      "misc": {}
+    },
+    "roleinfo": {
+      "desc": "Cette commande te permet d'avoir des informations sur un rôle.",
+      "use": "$1roleinfo <role>",
+      "assets": {
+        "noRole": { "content": "> **Aucun role n'a été trouvé**", "ephemeral": true },
+        "response": {
+          "embeds": [{
+            "author": { "name": "Lana" },
+            "description": "**Informations sur <@&$1> :**\n\n**Couleur :** ** ** $2\n**Identifiant :** `$1`\n**Mentionnable :** ** ** $4\n**Position :** ** ** `$5e`\n**Tags :** ** ** `$6`\n**Membres avec ce rôle :** `$9`\n\n__Autre :__\n**Permissions :** ** ** `$7`\n**Gérer :** ** ** $8",
+            "color" :"$2",
+            "thumbnails": { "url": "$3" }
+          }]
+        }
+      },
+      "misc": {
+        "noTags": "Aucun tags"
+      }
+    },
+    "invite": {
+      "desc": "no ;)",
+      "use": "Aucun argument requis.",
+      "assets": {
+        "content": "> **Je suis le bot privé du serveur** `The Last Kingdom Of Eden`**, par conséquent, tu ne peux pas m'ajouter ailleurs !**"
+      }
+    },
+    "bot": {
+      "desc": "Cette commande te permet d'avoir des informations sur moi.",
+      "use": "Aucun argument requis.",
+      "assets": {
+        "default": {
+          "embeds": [{
+            "color": " #d3b7b7",
+            "author": { "name": "Lana", "icon_url": "$1" },
+            "title": "Quelques informations sur moi :",
+            "description": "**Mes développeurs :**\n- Sedorikku#0001\n- little evil thing#8291\n- Benne#8624\n- Zelfos#0123\n\n**Mon Hébergement :** [Raspberry Pi 4B+](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)\n\n> Je suis sur le serveur `The Last Kingdom Of Eden` pour un total de `$4` utilisateurs sur `$5` salons !\n\n__**Dépendances :**__\n- NPM : `$7`\n- NodeJS : `$6`\n- Discord.js : `$8`\n\n**Je suis en ligne depuis le `$9`** ( <t:$10:R> )"
+          }]
+        }
+      }
+    },
+    "ping": {
+      "desc": "Cette commande te permet d'avoir ma latence !",
+      "use": "Aucun argument requis.",
+      "assets": "> 🏓 **J'ai une latence de $1ms, c'est $2**",
+      "misc": {
+        "1": "excellent",
+        "2": "bien",
+        "3": "limite",
+        "4": "horrible !"
+      }
+    },
+    "blacklist": {
+      "desc": "Cette commande est le diable en personne.",
+      "use": "$1blacklist add <user> <reason>\n$1blacklist remove <user>\n$1blacklist see <user>\n$1blacklist list",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Un argument est necessaire !**",
+        "invalidArgs": "<emj:close> ** ** **Un argument valide est necessaire !**",
+        "noUserFound": "<emj:close> ** ** **Aucun utilisateur n'a été trouvé !**",
+        "add": {
+          "noReason": "<emj:close> ** ** **Il te faut une raison !**",
+          "alreadyBlacklisted": "<emj:close> ** ** **Cette personne est déjà blacklist !**",
+          "res": "<emj:check> ** ** **`$1` as bien été ajouté à la blacklist !**"
+        },
+        "remove": {
+          "notBlacklisted": "<emj:close> ** ** **Cette personne n'est pas blacklist !**",
+          "res": "<emj:check> ** ** **`$1` as bien été retiré de la blacklist !**"
+        },
+        "see": {
+          "notBlacklisted": "<emj:close> ** ** **Cette personne n'est pas blacklist !**",
+          "res": { "embeds": [{ "color": " #d3b7b7", "author": { "name": "$1", "icon_url": "$2" }, "title": "$5", "fields": [{ "name": "Raison :", "value": "```\n$3\n```" }], "timestamp": "$4", "thumbnail": { "url": "$6" } }] }
+        }
+      }
+    },
+    "config": {
+      "desc": "Cette commande te permet de modifier les paramètres du serveurs.",
+      "use": "$1config [prefix <prefix>] [lang <lang name>] [nickname <surnom>]",
+      "assets": {
+        "noArgs":"<emj:close> ** ** **Un argument est necessaire !**",
+        "saved": "<emj:check> ** ** **Les paramètres suivant ont bien été modifiés :**```\n$1```",
+        "error": "<emj:error> ** ** **Des problèmes ont été observés !**\n```\n$1\n```\n**Toutefois, ces actions ont été effectuées :**```\n$2```",
+        "noSuccess": "Aucune action n'a pu être executée.",
+        "errorMessage": {
+          "invalidSection": "- Le paramètre \"$1\" n'existe pas.",
+          "nicknameTooLong": "- Le surnom doit faire moins de 32 caractères.",
+          "invalidNickname": "- Une erreur est survenue en changeant mon surnom",
+          "prefixTooLong": "- Le préfixe doit faire moins de 5 caractères et plus de 1 caractère.",
+          "samePrefix": "- Le préfixe doit être différent de l'ancien préfixe.",
+          "invalidLang": "- La langue \"$1\" n'existe pas.",
+          "notSupported": "- Cette fonctionnalitée n'est pas supportée par les slashs commands, veuillez utilisé les commande classiques de la catégorie \"config\" avec la commande help."
+        },
+        "successMessage": {
+          "nickname": "- Le surnom as été changé avec succès.",
+          "prefix": "- Le préfix as été changé avec succès.",
+          "lang": "- La langue as été changée avec succès."
+        }
+      }
+    },
+    "ignoredchannel": {
+      "desc": "Cette commande te permet de gérer les salons que je dois ignorer.",
+      "use": "$1ignoredchannel add <channel>\n$1ignoredchannel remove <channel>\n$1ignoredchannel list",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Un argument est necessaire !**",
+        "invalidArgs": "<emj:close> ** ** **Un argument valide est necessaire !**",
+        "noChannel": "<emj:close> ** ** **Je n'ai pas trouvé le salon à ignoré ou celui ci n'est pas un salon textuel !**",
+        "addSuccess": "<emj:check> ** ** **Le salon `$1` as bien été rajouté à la liste des salons à ignorés !**",
+        "alreadyIgnored": "<emj:close> ** ** **Ce salon est déjà ignoré !**",
+        "notIgnored": "<emj:close> ** ** **Ce salon n'est pas ignoré !**",
+        "removeSuccess": "<emj:check> ** ** **Le salon `$1` as bien été retiré de la liste des salons ignorés !**",
+        "noIgnoredChannels": "Aucun salon ignoré n'a été ajouté à la liste.",
+        "list": {
+          "embeds": [{
+            "color": " #d3b7b7",
+            "title": "Liste des salons ignorés",
+            "description": "```\n$1\n```",
+            "author": { "name": "$2", "icon_url": "$3" }
+          }],
+          "ephemeral": true
+        }
+      }
+    },
+    "ignoredrole": {
+      "desc": "Cette commande te permet de gérer les rôles que je dois ignorer.",
+      "use": "$ignoredrole add <channel>\n$ignoredrole remove <channel>\n$ignoredrole list",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Un argument est necessaire !**",
+        "invalidArgs": "<emj:close> ** ** **Un argument valide est necessaire !**",
+        "noRole": "<emj:close> ** ** **Je n'ai pas trouvé le rôle à ignoré !**",
+        "addSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été rajouté à la liste des rôles à ignorés !**",
+        "alreadyIgnored": "<emj:close> ** ** **Ce rôle est déjà ignoré !**",
+        "notIgnored": "<emj:close> ** ** **Ce rôle n'est pas ignoré !**",
+        "removeSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été retiré de la liste des rôles ignorés !**",
+        "noIgnoredChannels": "Aucun rôle ignoré n'a été ajouté à la liste.",
+        "list": {
+          "embeds": [{
+            "color": " #d3b7b7",
+            "title": "Liste des rôle ignorés",
+            "description": "```\n$1\n```",
+            "author": { "name": "$2", "icon_url": "$3" }
+          }],
+          "ephemeral": true
+        }
+      }
+    },
+    "staffrole": {
+      "desc": "Cette commande te permet de gérer les rôles de modération.",
+      "use": "$1staffrole add <channel>\n$1staffrole remove <channel>\n$1staffrole list",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Un argument est necessaire !**",
+        "invalidArgs": "<emj:close> ** ** **Un argument valide est necessaire !**",
+        "noRole": "<emj:close> ** ** **Je n'ai pas trouvé le rôle de modération a ajouté !**",
+        "addSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été rajouté à la liste des rôles de modérations !**",
+        "alreadyIgnored": "<emj:close> ** ** **Ce rôle est déjà considéré comme modérateur !**",
+        "notIgnored": "<emj:close> ** ** **Ce rôle n'est pas considéré comme modérateur !**",
+        "removeSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été retiré de la liste des rôles de modérations !**",
+        "noIgnoredChannels": "Aucun rôle de modération n'a été ajouté à la liste.",
+        "everyone": "<emj:error> **Pour des raisons évidentes de sécurités, vous ne pouvez pas ajouter le rôle `@\u200beveryone` à la liste des rôles de modérations !**",
+        "list": {
+          "embeds": [{
+            "color": " #d3b7b7",
+            "title": "Liste des rôles de modérations :",
+            "description": "```\n$1\n```",
+            "author": { "name": "$2", "icon_url": "$3" }
+          }],
+          "ephemeral": true
+        }
+      }
+    },
+    "dashboardaccess": {
+      "desc": "Cette commande te permet de gérer les rôles ayant accès au dashboard.",
+      "use": "$staffrole add <channel>\n$staffrole remove <channel>\n$staffrole list",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Un argument est necessaire !**",
+        "invalidArgs": "<emj:close> ** ** **Un argument valide est necessaire !**",
+        "noRole": "<emj:close> ** ** **Je n'ai pas trouvé le rôle de modération a ajouté !**",
+        "addSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été rajouté à la liste des rôles autorisés à accéder au dashboard !**",
+        "alreadyIgnored": "<emj:close> ** ** **Ce rôle est déjà autorisé à accéder au dashboard !**",
+        "notIgnored": "<emj:close> ** ** **Ce rôle n'est pas autorisé à accéder au dashboard !**",
+        "removeSuccess": "<emj:check> ** ** **Le rôle `$1` as bien été retiré de la liste des rôles ayant accès au dashboard !**",
+        "noIgnoredChannels": "Aucun rôle n'a été ajouté à la liste.",
+        "everyone": "<emj:error> **Pour des raisons évidentes de sécurités, vous ne pouvez pas ajouter le rôle `@\u200beveryone` à la liste des rôles ayant accès au dashboard !**",
+        "list": {
+          "embeds": [{
+            "color": " #d3b7b7",
+            "title": "Liste des rôles ayant accès au dashboard :",
+            "description": "```\n$1\n```",
+            "author": { "name": "$2", "icon_url": "$3" }
+          }],
+          "ephemeral": true
+        }
+      }
+    },
+    "support": {
+      "desc": "Cette commande te permet d'avoir l'invitation vers mon support !",
+      "use": "Aucun argument requis.",
+      "assets": {
+        "content": "> **Clique sur le bouton pour rejoindre mon support !**",
+        "components": [{
+          "type": 1,
+          "components": [
+            { "label": "Mon support", "url": "https://discord.gg/UYgdRRYs7P", "type": 2, "disabled": false, "style": 5 }
+          ]
+        }]
+      }
+    },
+    "8ball": {
+      "desc": "Les réponses sont magiques en posant une question à Lana avec cette commande :D",
+      "use": "$18ball <question>",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Je ne sais pas quoi répondre à cette question... vide ? Avec une question ca serait mieux je pense.**",
+        "properties": ["Je pense que oui.", "Peut-être.", "Pourquoi pas ?", "Ma source m'a dit que non.", "Hors de question !", "Les signes indiquent que oui.", "Très douteux.", "C'est décidément le cas"],
+        "res": "$1🎱 ** **$2 - **$3**"
+      }
+    },
+    "ascii": {
+      "desc": "Cette commande rigolote te permet d'avoir le texte de ton choix en code ASCII, et en bonus, avec la commande slash, tu peux mettre de la couleur :D",
+      "use": "- Mobile :\n$1ascii <texte>\n- Desktop :\n/ascii text:<texte> color:<couleur>\n\n/!\\ La couleur doit être en anglais, et les caractères comme \"à\", \"é\" ou \"ç\" ne seront pas compris dans le résultat ( ils n'existent pas en ASCII )\n\nLa couleur est visible uniquement sur ordinateur, cela dépend de Discord.",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Il me faut un texte à transformer !**"
+      }
+    },
+    "note": {
+      "desc": "Cette commande te donne une note au hasard, seras-tu capable d'avoir 20/20 ?",
+      "use": "Aucun argument requis.",
+      "assets": {
+        "res": "📒 ** **$1 - **Je te donne une note de `$2/20`**"
+      }
+    },
+    "members": {
+      "desc": "Cette commande te permet de voir les membres de l'alliance The Discord Kingdom",
+      "use": "$1members\n$1members <guildName | guildId>",
+      "assets": {
+        "noGuilds": "<emj:close> ** ** **Aucun serveur n'est inscrit dans la liste.**",
+        "noDesc": "Aucune description.",
+        "noChannel": "Aucun salon.",
+        "defaultRes": {
+          "embeds": [{
+            "color": "#64D7B1",
+            "author": { "name": "page $1/$2", "icon_url": "$3" },
+            "title": "$4",
+            "description": "$5",
+            "thumbnail": { "url": "$6" },
+            "fields": [
+              { "name": "Fondateur(s) :", "value": "$7" }, 
+              { "name": "Inter-serveur :", "value": ">>> **Membres:** `$8`\n**News:** `$9`" }
+            ]
+          }],
+          "components": [
+            { "type": 1, "components": [{ "label": "Rejoindre le serveur", "style": 5, "type": 2 }] }
+          ]
+        }
+      }
+    },
+    "userblacklist": {
+      "desc": "Cette commande permet aux staffs des serveurs de l'alliance The Discord Kingdom d'ajouter des personnes à la blacklist",
+      "use": "$1userblacklist add <userId> <reason>\n$1userblacklist remove <userId>\n$1userblacklist check <userId>",
+      "assets": {
+        "notStaff": "<emj:close> ** ** **Tu n'es pas autorisé à utiliser cette commande !**",
+        "invalidOption": "<emj:close> ** ** **Cette option n'existe pas !**",
+        "error": "<emj:close> ** ** **Une erreur est survenue !**",
+        "addRequest": {
+          "embeds": [
+            {
+              "title": "Demande de blacklist", "description": "> Demande de blacklist de `$1` par `$3`.", "color": 11610923,
+              "fields": [
+                { "name": "Raison fournie :", "value": "```\n$5```" },
+                { "name": "Auteur de la demande :", "value": "```\n$3 -- $4\n```" },
+                { "name": "Personne visée par la demande :", "value": "```\n$1 -- $2\n```\n > ** **# ** ** **Membre des serveurs de l'alliance suivant :**\n$6\n\n**Blacklist de Lana :** $7" }
+              ],
+              "author": { "name": "$1", "icon_url": "$11" }, "timestamp": "$10",
+              "footer": { "text": "Requête envoyée depuis le serveur \"$8\"", "icon_url": "$9" }
+            }
+          ],
+          "components": [
+            {
+              "type": 1, "components": [
+                { "disabled": false, "emoji": "884084000291971084", "label": "", "style": 3, "type": 2, "custom_id": "TDK_BLACKLIST_ADD&id=$2" },
+                { "disabled": false, "emoji": "884084000744939571", "label": "", "style": 4, "type": 2, "custom_id": "TDK_BLACKLIST_REMOVE&id=$2" }
+              ]
+            }
+          ]
+        },
+        "invalidUser": "<emj:close> ** ** **Cet utilisateur n'existe pas !**",
+        "addRequestSent": "<emj:check> ** ** **Demande de blacklist envoyée !**",
+        "alreadyRequested": "<emj:close> ** ** **Une demande de blacklist a déjà été envoyée !**",
+        "alreadyBlacklisted": "<emj:close> ** ** **Cet utilisateur est déjà dans la blacklist !**"
+      }
+    },
+    "emojify": {
+      "desc": "Cette commande te permet de transformer les caractères d'un texte en emojis.",
+      "use": "$1emojify <texte>",
+      "assets": {
+        "noArgs": "<emj:close> ** ** **Il me faut un texte à transformer !**"
+      }
+    },
+    "music": {
+      "desc": "Cette commande te permet d'avoir un bot de musique !",
+      "use": "Aucun argument requis.",
+      "assets": {
+        "content": "> <emj:music> ** ** **Ma structure et mon code source ne me permet pas de jouer une magnifique musique, mais mon amie** `maggot#5340` **peut jouer de la musique !**",
+        "components": [
+          { "type": 1, "components": [{ "label": "Inviter Maggot", "style": 5, "type": 2, "url": "https://discord.com/oauth2/authorize?client_id=767506588989784134&permissions=9&response_type=code&scope=bot%20applications.commands%20guilds%20identify" }] }
+        ]
+      }
+    },
+    "logs": {
+      "desc": "Cette commande permet de modifier les paramètres des logs du serveur.",
+      "use": "$1logs\n$1logs list\n$1logs add <channel>\n$1logs remove <event>",
+      "assets": {
+        "channelNotFound": "> Aucun salon.",
+        "noChannels": { "name": "Aucun salon.", "value": "> Aucun salon n'a été configuré comme salon de logs.\nCommencez dès maintenant avec la commande```\n$1logs add <event> <channel>```" },
+        "channelList": {
+          "ephemeral": true,
+          "embeds": [
+            {
+              "color": "#5865F2",
+              "title": "Liste des salons de logs :",
+              "description": "** **",
+              "fields": [],
+              "author": { "name": "$1", "icon_url": "$2" },
+              "footer": { "text": "Vous ne cherchez pas à faire ca ? Vous pouvez regarder comment utiliser la commande avec $3help logs"}
+            }
+          ]
+        },
+        "eventList": {
+          "embeds": [
+            {
+              "color": "#5865F2",
+              "title": "Liste des évènements disponibles :",
+              "author": { "name": "$1", "icon_url": "$2" },
+              "description": "```\n$3```"
+            }
+          ]
+        },
+        "noChannelFound": "<emj:close> ** ** **Aucun salon textuel n'a été trouvé.**",
+        "noEventFound": "<emj:close> ** ** **Aucun évènement n'a été trouvé.**",
+        "eventRefused": "<emj:close> ** ** **Cet évènement n'est pas supporté pour une utilisation publique, il est sans doute utilisé par mon système ou à des fins techniques.**",
+        "invalidArgs": "<emj:close> ** ** **Je n'ai pas compris quoi faire.**",
+        "notAdded": "<emj:close> ** ** **Ce salon n'a pas été associé à un évènement.**",
+        "addSuccess": "<emj:check> ** ** **Des messages seront désormais envoyés dans `$1` quand l'évènement `$2` ( $3 ) se déclencheras.**",
+        "removeSuccess": "<emj:check> ** ** **Plus aucun messages ne sera envoyés dans `$1` quand l'évènement `$2` ( $3 ) se déclencheras.**",
+        "addEventChoice": {
+          "ephemeral": true,
+          "content": "> **Veuillez sélectionner les évènements que vous souhaitez synchroniser avec le salon** `$1` **:**",
+          "components": []
+        },
+        "removeEventChoice": {
+          "ephemeral": true,
+          "content": "> **Veuillez sélectionner les évènements que vous souhaitez désynchroniser avec le salon** `$1` **:**",
+          "components": []
+        }
+      }
+    },
+    "patch": {
+      "desc": "Cette commande te permet d'avoir la liste des derniers patchs de Lana.",
+      "use": "Aucun argument requis."
+    },
+    "blush": {
+      "desc": "Cette commande te permet d'exprimer tes sentiments !",
+      "use": "Aucun argument requis."
+    },
+    "hug": {
+      "desc": "Cette commande te permet de faire un gros calin à quelqu'un !",
+      "use": "$1hug\n$1hug <user>"
+    },
+    "kill": {
+      "desc": "Cette commande te permet de tuer quelqu'un ! ( fictiviement en tout cas )",
+      "use": "$1kill\n$1kill <user>"
+    },
+    "kiss": {
+      "desc": "Cette commande te permet de faire un bisous à quelqu'un !",
+      "use": "$1kiss\n$1kiss <user>"
+    },
+    "punch": {
+      "desc": "Cette commande te permet de faire un calin à quelqu'un !",
+      "use": "$1slap\n$1slap <user>"
+    },
+    "love": {
+      "desc": "Cette commande te permet de dire qu'un utilisateur est amoureux de quelqu'un !",
+      "use": "$1love\n$1love <user>"
+    },
+    "unacceptable": {
+      "desc": "Je trouve ca innaceptable...\n\nC'est une commande cachée, félicitation de l'avoir trouvée !",
+      "use": "Aucun argument requis."
+    },
+    "rank": {
+      "desc": "Cette commande te permet d'avoir des informations sur ton profile ou celui de quelqu'un d'autre.",
+      "use": "$1rank\n$1rank <user>"
+    },
+    "userinfo": {
+      "desc": "Cette commande te permet d'avoir des infos sur un utilisateur.",
+      "use": "$1userinfo\n$1userinfo <user>"
+    }
+  },
+  "logs": {
+    "updateMessage": {
+      "embeds": [
+        {
+          "author": { "icon_url": "$1", "name": "$2" },
+          "title": "Modification de message.",
+          "description": "> $2 as modifié(e) un message dans <#$4>.",
+          "fields": [
+            { "name": "Salon :", "value": "```\n$3 -- $4```", "inline": true },
+            { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+            { "name": "Ancien message", "value": "$6", "inline": false },
+            { "name": "Nouveau message", "value": "$7", "inline": false }
+          ],
+          "footer": { "text": "ID du message : $8", "icon_url": "$9" },
+          "color": "#3498db"
+        }
+      ],
+      "components": [
+        { "type": 1, "components": [{ "label": "Aller au message", "style": 5, "type": 2, "url": "https://discord.com/channels/$10/$4/$8" }] }
+      ]
+    },
+    "deleteMessage": {
+      "fileJoins": { "name": "Des fichiers ont été joint au message.", "value": "> <emj:error> ** ** Faites attention en cliquant sur ces liens, ils pourraient être malveillants." },
+      "noContent": "**`[ Lana SYSTEM ] >> Ce message ne contient aucun contenu.`**",
+      "assets": {
+        "embeds": [
+          {
+            "author": { "icon_url": "$1", "name": "$2" },
+            "title": "Suppression de message.",
+            "description": "> $2 as supprimé(e) un message dans $9.",
+            "fields": [
+              { "name": "Salon :", "value": "```\n$3 -- $4```", "inline": true },
+              { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+              { "name": "Message", "value": "$6", "inline": false }
+            ],
+            "footer": { "text": "ID du message : $7", "icon_url": "$8" },
+            "color": "#a93226"
+          }
+        ]
+      }
+    },
+    "channelCreate": {
+      "audits": {
+        "embeds": [
+          {
+            "author": { "icon_url": "$1", "name": "$2" },
+            "title": "Création de salon.",
+            "description": "> $2 as créé(e) un salon.",
+            "fields": [
+              { "name": "Salon :", "value": "```\n$3 -- $4```", "inline": false },
+              { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+              { "name": "Type :", "value": "$8", "inline": true },
+              { "name": "Raison", "value": "$6", "inline": false }
+            ],
+            "footer": { "text": "ID du salon : $4", "icon_url": "$7" },
+            "color": "#56F1AB"
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "title": "Création de salon.",
+            "description": "> Le salon $1 as été créer.",
+            "fields": [
+              { "name": "Salon :", "value": "```\n$2 -- $3```", "inline": false },
+              { "name": "Date", "value": "<t:$4>\n<t:$4:R>", "inline": true },
+              { "name": "Type :", "value": "$5", "inline": false }
+            ],
+            "footer": { "text": "ID du salon : $3", "icon_url": "$6" },
+            "color": "#56F1AB"
+          }
+        ]
+      }
+    },
+    "channelDelete": {
+      "audits": {
+        "embeds": [
+          {
+            "author": { "icon_url": "$1", "name": "$2" },
+            "title": "Suppression de salon.",
+            "description": "> $2 as supprimé un salon.",
+            "fields": [
+              { "name": "Salon :", "value": "```\n$3 -- $4```", "inline": false },
+              { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+              { "name": "Type :", "value": "$8", "inline": true },
+              { "name": "Raison", "value": "$6", "inline": false }
+            ],
+            "footer": { "text": "ID du salon : $4", "icon_url": "$7" },
+            "color": "#F15656"
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "title": "Suppression de salon.",
+            "description": "> Le salon $1 as été supprimé.",
+            "fields": [
+              { "name": "Salon :", "value": "```\n$2 -- $3```", "inline": false },
+              { "name": "Date", "value": "<t:$4>\n<t:$4:R>", "inline": true },
+              { "name": "Type :", "value": "$5", "inline": false }
+            ],
+            "footer": { "text": "ID du salon : $3", "icon_url": "$6" },
+            "color": "#F15656"
+          }
+        ]
+      }
+    },
+    "roleCreate": {
+      "audits": {
+        "embeds": [
+          {
+            "author": { "icon_url": "$1", "name": "$2" },
+            "title": "Création de rôle.",
+            "description": "> $2 as créé un rôle.",
+            "fields": [
+              { "name": "Rôle :", "value": "```\n$3 -- $4```", "inline": false },
+              { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+              { "name": "Raison", "value": "$6", "inline": false },
+              { "name": "Position :", "value": "$8", "inline": false}
+            ],
+            "footer": { "text": "ID du rôle : $4", "icon_url": "$7" },
+            "color": "#56F1AB"
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "title": "Création de rôle.",
+            "description": "> Le rôle $1 as été créé.",
+            "fields": [
+              { "name": "Rôle :", "value": "```\n$2 -- $3```", "inline": false },
+              { "name": "Date", "value": "<t:$4>\n<t:$4:R>", "inline": true },
+              { "name": "Position :", "value": "$7", "inline": false}
+            ],
+            "footer": { "text": "ID du rôle : $3", "icon_url": "$6" },
+            "color": "#56F1AB"
+          }
+        ]
+      }
+    },
+    "roleDelete": {
+      "audits": {
+        "embeds": [
+          {
+            "author": { "icon_url": "$1", "name": "$2" },
+            "title": "Suppression de rôle.",
+            "description": "> $2 as supprimé un rôle.",
+            "fields": [
+              { "name": "Rôle :", "value": "```\n$3 -- $4```", "inline": false },
+              { "name": "Date", "value": "<t:$5>\n<t:$5:R>", "inline": true },
+              { "name": "Raison", "value": "$6", "inline": false },
+              { "name": "Position :", "value": "$8", "inline": false}
+            ],
+            "footer": { "text": "ID du rôle : $4", "icon_url": "$7" },
+            "color": "#F15656"
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "title": "Suppression de rôle.",
+            "description": "> Le rôle `$1` as été supprimé.",
+            "fields": [
+              { "name": "Rôle :", "value": "```\n$2 -- $3```", "inline": false },
+              { "name": "Date", "value": "<t:$4>\n<t:$4:R>", "inline": true },
+              { "name": "Position :", "value": "$7", "inline": false}
+            ],
+            "footer": { "text": "ID du rôle : $3", "icon_url": "$6" },
+            "color": "#F15656"
+          }
+        ]
+      }
+    },
+    "guildMemberAdd": {
+      "embeds": [
+        {
+          "author": { "name":"$1", "icon_url": "$2" },
+          "thumbnail": { "url": "$3" },
+          "title": "Un membre a rejoins le serveur.",
+          "description": "> $1 a rejoins le serveur le <t:$4>.",
+          "fields": [
+            { "name": "Âge du compte :", "value": "<t:$4> -- <t:$4:R>" },
+            { "name": "Analyse Auto Modérateur :", "value": "`IN DEVELOPPEMENT`" },
+            { "name": "Bot :", "value": "$5" }
+          ],
+          "footer": { "text": "ID du membre : $6" },
+          "timestamp": "$7",
+          "color": "56F1AB"
+        }
+      ],
+      "components": [
+        {
+          "type": 1,
+          "components": [{ "label": "Avatar", "url": "$8", "style": 5, "type": 2 }]
+        }
+      ]
+    },
+    "guildMemberRemove": {
+      "leave": {
+        "embeds": [
+          {
+            "author": { "name":"$1", "icon_url": "$2" },
+            "thumbnail": { "url": "$3" },
+            "title": "Un membre a quitté le serveur.",
+            "description": "> $1 a quitté le serveur le <t:$4>.",
+            "fields": [
+              { "name": "Âge du compte :", "value": "<t:$4> -- <t:$4:R>" },
+              { "name": "Avait rejoint le :", "value": "<t:$5> -- <t:$5:R>" },
+              { "name": "Bot :", "value": "$6" }
+            ],
+            "footer": { "text": "ID du membre : $7" },
+            "timestamp": "$8",
+            "color": "F15656"
+          }
+        ],
+        "components": [
+          {
+            "type": 1,
+            "components": [{ "label": "Avatar", "url": "$9", "style": 5, "type": 2 }]
+          }
+        ]
+      },
+      "kicked": {
+        "embeds": [
+          {
+            "author": { "name":"$1", "icon_url": "$2" },
+            "thumbnail": { "url": "$3" },
+            "title": "Un membre a été expulsé du serveur.",
+            "description": "> $1 a été expulsé du serveur le <t:$4>.",
+            "fields": [
+              { "name": "Âge du compte :", "value": "<t:$4> -- <t:$4:R>" },
+              { "name": "Avait rejoint le :", "value": "<t:$5> -- <t:$5:R>" },
+              { "name": "Bot :", "value": "$6" }
+            ],
+            "footer": { "text": "ID du membre : $7" },
+            "timestamp": "$8",
+            "color": "F15656"
+          }
+        ],
+        "components": [
+          {
+            "type": 1,
+            "components": [{ "label": "Avatar", "url": "$9", "style": 5, "type": 2 }]
+          }
+        ]
+      }
+    },
+    "guildBanAdd": {
+      "noReason": "Aucune raison a été fournie.",
+      "audit": {
+        "embeds": [
+          {
+            "author": { "name": "$1", "icon_url": "$2" },
+            "title": "Un membre a été bannis.",
+            "color": "F15656",
+            "description": "> $1 a été bannis par $3",
+            "timestamp": "$4",
+            "fields": [
+              { "name": "Raison :", "value": "$5", "inline": true },
+              { "name": "Modérateur :", "value": "```\n$6 ( $7 )```", "inline": true },
+              { "name": "Bannis :", "value": "**ID :** $8\n**Compte créer le :** <t:$9> (<t:$9:R>)\n**Bot :** $10", "inline": false }
+            ],
+            "footer": { "text": "ID du bannis : $8" },
+            "thumbnail": { "url": "$3" }
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "author": { "name": "$1", "icon_url": "$2" },
+            "title": "Un membre a été bannis.",
+            "color": "F15656",
+            "description": "> $1 a été bannis.",
+            "timestamp": "$4",
+            "fields": [
+              { "name": "Raison :", "value": "$5", "inline": true },
+              { "name": "Bannis :", "value": "**ID :** $6\n**Compte créer le :** <t:$7> (<t:$7:R>)\n**Bot :** $8", "inline": false }
+            ],
+            "footer": { "text": "ID du bannis : $6" },
+            "thumbnail": { "url": "$3" }
+          }
+        ]
+      }
+    },
+    "guildBanRemove": {
+      "noReason": "Aucune raison a été fournie.",
+      "audit": {
+        "embeds": [
+          {
+            "author": { "name": "$1", "icon_url": "$2" },
+            "title": "Un membre a été débannis.",
+            "color": "56F1AB",
+            "description": "> $1 a été débannis par $3",
+            "timestamp": "$4",
+            "fields": [
+              { "name": "Raison :", "value": "$5", "inline": true },
+              { "name": "Modérateur :", "value": "```\n$6 ( $7 )```", "inline": true },
+              { "name": "Ancien bannis :", "value": "**ID :** $8\n**Compte créer le :** <t:$9> (<t:$9:R>)\n**Bot :** $10", "inline": false }
+            ],
+            "footer": { "text": "ID du débannis : $8" },
+            "thumbnail": { "url": "$3" }
+          }
+        ]
+      },
+      "default": {
+        "embeds": [
+          {
+            "author": { "name": "$1", "icon_url": "$2" },
+            "title": "Un membre a été débannis.",
+            "color": "56F1AB",
+            "description": "> $1 a été débannis.",
+            "timestamp": "$4",
+            "fields": [
+              { "name": "Raison :", "value": "$5", "inline": true },
+              { "name": "Ancien débannis :", "value": "**ID :** $6\n**Compte créer le :** <t:$7> (<t:$7:R>)\n**Bot :** $8", "inline": false }
+            ],
+            "footer": { "text": "ID du débannis : $6" },
+            "thumbnail": { "url": "$3" }
+          }
+        ]
+      }
+    }
+  }
+}

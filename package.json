@@ -1,0 +1,27 @@
+{
+  "name": "slashcommandshandler",
+  "version": "0.1.0",
+  "description": "",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sedorriku",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^7.5.0",
+    "canvas": "^2.9.0",
+    "dayjs": "^1.10.7",
+    "discord-modals": "^1.2.3",
+    "discord.js": "^13.6.0",
+    "enmap": "^5.8.7",
+    "get-pixels": "^3.3.3",
+    "mathjs": "^10.1.1",
+    "node-gyp": "^8.3.0",
+    "node-pre-gyp": "^0.17.0",
+    "npm": "^8.3.2"
+  },
+  "bin": {
+    "slashcommandshandler": "./starter.js"
+  }
+}
