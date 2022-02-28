@@ -15,44 +15,38 @@ function formatType(str){
   }
 }
 
-const dayjs = require("dayjs");
 const uuid = require("uuid");
 
 function generateId(id){
   // generate 10 randoms v4 uuid in a array with Array.from
   const arr = Array.from({ length: 10 }, () => uuid.v4());
-  return arr[Math.floor(Math.random() * arr.length)]+String(id+(Date.now()-(Date.now()/2)));
+  return (arr[Math.floor(Math.random() * arr.length)]+String(Number(id)*1.1+(Date.now()%1000))).replace(/[^a-zA-Z0-9]/g, "");
 }
 
 module.exports = {
   generateId,
   generateSanctionList: async function(userId, author, interaction, msg, actualSanctionIndex, type = "all"){
-    /**
-     * trie par type
-     * undo et redo
-     * delete message
-     * delete sanction -> admin only
-     * raw (view json) -> admin only
-     */
-    if ((msg && !(msg instanceof Message)) || !(author instanceof User) || isNaN(actualSanctionIndex) || typeof userId !== "string") throw new Error("invalid arguments");
+    if (!(author instanceof User) || isNaN(actualSanctionIndex) || typeof userId !== "string") throw new Error("invalid arguments");
     if (!validType.includes(type)) type = "all";
     const { guild, member } = interaction;
     const data = database.users.get(userId);
     const user = client.users.cache.get(userId);
     if (!data || data.sanctions.length < 1 || !user) return ({ content: `${database.emojis.close.msg} ** ** \`${user.tag}\` **ne possède aucune sanction !**`});
     const sanction = data.sanctions.filter(sanction => (type !== "all" ? sanction.type === type : true))[(actualSanctionIndex%data.sanctions.length) > -1 ? (actualSanctionIndex%data.sanctions.length) || 0 : 0];
-    console.log(data.sanctions)
+    if (!sanction) return ({ content: `${database.emojis.close.msg} ** ** \`${user.tag}\` **ne possède aucune sanction ${type!=="all"?"du type spécifié ":""}!**`});
+    const mod = client.users.cache.get(sanction.authorId);
     return ({
+      ephemeral: true,
       embeds: [
         {
           color: sanction.type == "unban" ? guild.translate("color.success") : guild.translate("color.sanction"),
           title: "Sanctions",
           author: { name: user.tag, icon_url: user.displayAvatarURL({format: "png", size: 512 }) },
-          description: `> **Sanctions de** \`${user.tag}\`\n\n**${actualSanctionIndex}/${data.sanctions.length}** - **${sanction.type}**\n**Raison:** \`\`\`\n${sanction.reason}\`\`\`\n** **`,
+          description: `> **Sanctions de** \`${user.tag}\` par \`${mod?.tag?mod.tag:sanction.authorId}\`\n\n**${actualSanctionIndex+1}/${data.sanctions.length}** - **${sanction.type}**\n**Raison:** \`\`\`\n${sanction.reason}\`\`\`\n** **`,
           fields: [
             {
               name: "** **",
-              value: `**Sanction n°** \`${sanction.id}\`\nSanction effectuée le <t:${Math.trunc(sanction.date/1000)}> ( <t:${Math.trunc(sanction.date/1000)}:R> )`,
+              value: `**Identifiant :** \`${sanction.id}\`\n\n**Sanction effectuée le** <t:${Math.trunc(sanction.date/1000)}> ( <t:${Math.trunc(sanction.date/1000)}:R> )`,
               inline: false
             }
           ]
@@ -63,7 +57,7 @@ module.exports = {
           components: [
             {
               type: 'SELECT_MENU',
-              customId: `HELP_CTG_MENU$index=${actualSanctionIndex}`,
+              customId: `SANCTION_SELECT_TYPE&index=${actualSanctionIndex}`,
               placeholder: 'Quel type souhaite-tu voir ?',
               options: [
                 ...validType.filter((str) => str !== "all").map((str) => ({
@@ -80,23 +74,19 @@ module.exports = {
           components: [
             {
               disabled: data.sanctions.length > 1 ? false : true,
-              emoji: "885157955241115698", label: "", style: 2, type: 2, custom_id: `SANCTION_UNDO&index=${actualSanctionIndex}&user=${member.id}`
+              emoji: "885157955241115698", label: "", style: 2, type: 2, custom_id: `SANCTION_UNDO&index=${actualSanctionIndex}&author=${member.id}&user=${user.id}&type=${type}`,
             },
             {
               disabled: data.sanctions.length > 1 ? false : true,
-              emoji: "885157955459235870", label: "", style: 2, type: 2, custom_id: `SANCTION_REDO&index=${actualSanctionIndex}&user=${member.id}`
+              emoji: "885157955459235870", label: "", style: 2, type: 2, custom_id: `SANCTION_REDO&index=${actualSanctionIndex}&author=${member.id}&user=${user.id}&type=${type}`
             },
             {
               disabled: false,
-              emoji: "885157955182428220", label: "", style: 2, type: 2, custom_id: `SANCTION_SEARCH&index=${actualSanctionIndex}&user=${member.id}`,
+              emoji: "885157955182428220", label: "", style: 2, type: 2, custom_id: `SANCTION_SEARCH&author=${member.id}&user=${user.id}&type=${type}`,
             },
             {
-              disabled: member.permissions.has("ADMINISTRATOR") ? false : true,
-              emoji: "884084000744939571", label: "", style: 2, type: 2, custom_id: `SANCTION_DELETE&index=${actualSanctionIndex}&user=${member.id}`,
-            },
-            {
-              disabled: member.permissions.has("ADMINISTRATOR") ? false : true,
-              emoji: "947563563696922664", label: "", style: 2, type: 2, custom_id: `SANCTION_RAW&index=${actualSanctionIndex}&user=${member.id}`,
+              disabled: false,
+              emoji: "885157955270488084", label: "", style: 2, type: 2, custom_id: `MSG_DELETE&index=${actualSanctionIndex}&user=${user.id}`
             },
           ],
           type: 1
@@ -105,9 +95,17 @@ module.exports = {
           // BUTTONS 2
           components: [
             {
-              disabled: false,
-              emoji: "885157955270488084", label: "", style: 2, type: 2, custom_id: `MSG_DELETE&index=${actualSanctionIndex}&user=${member.id}`
+              disabled: member.permissions.has("ADMINISTRATOR") ? false : true,
+              emoji: "884084000744939571", label: "", style: 2, type: 2, custom_id: `SANCTION_DELETE&author=${member.id}&id=${sanction.id}`,
             },
+            {
+              disabled: member.permissions.has("ADMINISTRATOR") ? false : true,
+              emoji: "947909176624050257", label: "", style: 2, type: 2, custom_id: `SANCTION_EDIT&author=${member.id}&id=${sanction.id}`,
+            },
+            {
+              disabled: member.permissions.has("ADMINISTRATOR") ? false : true,
+              emoji: "947563563696922664", label: "", style: 2, type: 2, custom_id: `SANCTION_RAW&user=${member.id}&sanctionId=${sanction.id}`,
+            }
           ],
           type: 1
         }

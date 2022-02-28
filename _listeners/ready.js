@@ -37,9 +37,19 @@ async function stateUpdate(ms, i = 0) {
   } else setTimeout(async() => stateUpdate(ms, i), ms);
 }
 
+const { ModalSubmitInteraction } = require('discord-modals');
+
 module.exports = async function() {
   console.log("[ \x1b[32mClient\x1b[0m ] Client ready");
   client.prefix = (client?.user?.id == "858766319506554899" ? "=" : ".");
+
+  client.on('modalSubmit', require("../_listeners/modalSubmit.js"));
+  client.ws.on('INTERACTION_CREATE', (data) => {
+    if (!data.type) return;    
+    if (data.type == 5) {
+      client.emit('modalSubmit', new ModalSubmitInteraction(client, data));
+    } else return;
+  });
   
   if (!database.guilds.get("831842750538186772")) database.guilds.set("831842750538186772", require("../guild.js")(client.guilds.cache.get("831842750538186772")));
   if (!database.guilds.get("848657031694778378")) database.guilds.set("848657031694778378", require("../guild.js")(client.guilds.cache.get("848657031694778378")));

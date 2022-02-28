@@ -11,7 +11,7 @@ module.exports.exec = async function(author, channel, guild, memberPermission, m
   if (!options[0]) return `${database.emojis.close.msg} ** ** **Je ne sais pas qui recherché !**`;
   let user = await (options[0] ? (typeof options[0] !== "string" ? options[0] : guild.members.select(options[0], { bot: true }) ) : author);
   if (!user || ![User, GuildMember].some((c) => user instanceof c)) return ({ content: `${database.emojis.close.msg} ** ** **Je ne sais pas quel personne recherché !**`});
-  return (await generateSanctionList(user.id, author, interaction, interaction, 0, "all"))
+  return (await generateSanctionList(user.id, author, interaction, interaction, 0, options[1] ? options[1] : "all"));
 }
 
 module.exports.config = {

@@ -9,22 +9,21 @@ global["client"] = new Client({
   allowedMentions: { repliedUser: false },
   retryLimit: 5,
   invalidRequestWarningInterval: 10
-});
-discordModals(client);
+})
 client.prefix = ".";
 
 // EVENTS
 readdirSync("_listeners").forEach((dir) => {
   try { client.on(dir.replace(/\.js/g, ""), require(`./_listeners/${dir}`)) }
-    catch(err) { console.log(err) }
-})
+    catch(err) { console.log(err) };
+});
 
-global["database"] = new (require("./_managers/Database.js"))()
+global["database"] = new (require("./_managers/Database.js"))();
 
 // MANAGERS && PROTOTYPE
-require("./_managers/Prototype.js").exec()
-new (require("./_managers/_commands/CommandsManager.js"))()
-new (require("./_managers/_interactions/InteractionManager.js"))()
+require("./_managers/Prototype.js").exec();
+new (require("./_managers/_commands/CommandsManager.js"))();
+new (require("./_managers/_interactions/InteractionManager.js"))();
 
 // LOGIN
 client.login(require("./_storage/config.json").token)

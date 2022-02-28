@@ -46,7 +46,7 @@ class CommandsHandler {
     let state = 0;
     try {
       if (command.config.defer && (type instanceof Discord.CommandInteraction)) await type.deferReply({ ephemeral: command.config.ephemeral ?? false})
-      if (type instanceof Discord.Message) type.channel.sendTyping();
+      if (command.config.defer && (type instanceof Discord.Message)) type.channel.sendTyping();
       const res = await command.exec(...args, getArgs(type, client.prefix.length));
       if (!global["client"] || !(global["client"] instanceof Discord.Client) || global["client"]?.ws?.destroyed) return;
       if (["string", "object"].some(t => typeof res == t) && !Array.isArray(res)) {
